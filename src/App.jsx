@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, MessageCircle, Menu, Filter, Share2, Heart, DollarSign } from 'lucide-react';
 
 const WHATSAPP_NUMBER = "5565647493"; 
-const PAYPAL_USER = "https://www.paypal.com/paypalme/my/profile"; 
+const PAYPAL_USER = "https://paypal.me/knas99"; 
 const FALLBACK_IMG = "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600";
 
 const Navbar = ({ cartCount, toggleCart }) => (

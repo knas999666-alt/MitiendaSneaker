@@ -1,1997 +1,4475 @@
 [
   {
-    "id": 1016,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Palomino",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 8250,
-    "pricing": {
-      "25 MX": 8300,
-      "25.5 MX": 8250,
-      "26 MX": 8250,
-      "26.5 MX": 9000,
-      "27 MX": 8900,
-      "27.5 MX": 8950,
-      "28 MX": 8900,
-      "28.5 MX": 9100,
-      "29 MX": 8350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Palomino-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1067,
-    "name": "Jordan 4 Retro GS",
-    "model": "Union Guava Ice",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 18900,
-    "pricing": {
-      "23 MX": 19350,
-      "23.5 MX": 19450,
-      "24 MX": 18900,
-      "24.5 MX": 18900,
-      "25 MX": 19100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Union-Guava-Ice-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1063,
-    "name": "Jordan 4 Retro GS",
-    "model": "Military Blue (2024)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 7400,
-    "pricing": {
-      "23 MX": 7500,
-      "23.5 MX": 7550,
-      "24 MX": 7500,
-      "25 MX": 7400
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Blue-2024-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1007,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "University Blue",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 9700,
-    "pricing": {
-      "23 MX": 9850,
-      "23.5 MX": 9700,
-      "24 MX": 9750,
-      "24.5 MX": 9800,
-      "25 MX": 9750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1101,
-    "name": "Jordan 12 Retro GS",
-    "model": "Playoffs",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 7000,
-    "pricing": {
-      "23 MX": 7150,
-      "24 MX": 7000,
-      "24.5 MX": 7100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Playoffs-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1081,
-    "name": "Jordan 6 Retro GS",
-    "model": "Carmine (2021)",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 6850,
-    "pricing": {
-      "23.5 MX": 6850,
-      "24 MX": 6850,
-      "24.5 MX": 6900
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Carmine-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1070,
-    "name": "Jordan 5 Retro",
-    "model": "UNC",
-    "brand": "Jordan",
-    "category": "Retro 5",
-    "price": 8150,
-    "pricing": {
-      "25 MX": 8150,
-      "25.5 MX": 8250,
-      "26 MX": 8300,
-      "26.5 MX": 8950,
-      "27 MX": 9100,
-      "27.5 MX": 8900,
-      "28 MX": 8900,
-      "28.5 MX": 9100,
-      "29 MX": 8300,
-      "30 MX": 8350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-UNC-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1044,
-    "name": "Jordan 4 Retro",
-    "model": "Military Black",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 14800,
-    "pricing": {
-      "25 MX": 15200,
-      "26.5 MX": 16750,
-      "27 MX": 16400,
-      "27.5 MX": 16300,
-      "28.5 MX": 16700,
-      "29 MX": 14800,
-      "30 MX": 14900
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1000,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Chicago Lost & Found",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 13650,
-    "pricing": {
-      "25 MX": 13850,
-      "26 MX": 13850,
-      "26.5 MX": 15400,
-      "27 MX": 15500,
-      "27.5 MX": 15500,
-      "28 MX": 15200,
-      "28.5 MX": 15100,
-      "29 MX": 13850,
-      "30 MX": 13650
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined-Lost-and-Found-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1069,
-    "name": "Jordan 5 Retro GS",
-    "model": "Off-White Muslin",
-    "brand": "Jordan",
-    "category": "Retro 5",
-    "price": 21150,
-    "pricing": {
-      "23.5 MX": 21550,
-      "24 MX": 21350,
-      "24.5 MX": 21150,
-      "25 MX": 21250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-Off-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1073,
-    "name": "Jordan 5 Retro GS",
-    "model": "Raging Bull",
-    "brand": "Jordan",
-    "category": "Retro 5",
-    "price": 6550,
-    "pricing": {
-      "23 MX": 6600,
-      "23.5 MX": 6550,
-      "25 MX": 6550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-Raging-Bull-Red-Suede-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1100,
-    "name": "Jordan 12 Retro",
-    "model": "Playoffs",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 8750,
-    "pricing": {
-      "25 MX": 8800,
-      "26 MX": 8850,
-      "27 MX": 9600,
-      "27.5 MX": 9500,
-      "28 MX": 9650,
-      "29 MX": 8750,
-      "30 MX": 8850
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Playoffs-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1092,
-    "name": "Jordan 11 Retro",
-    "model": "Gratitude",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 8150,
-    "pricing": {
-      "25.5 MX": 8200,
-      "26 MX": 8150,
-      "26.5 MX": 8900,
-      "27 MX": 9000,
-      "27.5 MX": 9000,
-      "28.5 MX": 9050,
-      "29 MX": 8150,
-      "30 MX": 8300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-DMP-Gratitude-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1020,
-    "name": "Jordan 1 Retro Low OG",
-    "model": "Travis Scott Reverse Mocha",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 35150,
-    "pricing": {
-      "25 MX": 35150,
-      "25.5 MX": 36150,
-      "26 MX": 35600,
-      "27 MX": 39900,
-      "27.5 MX": 39300,
-      "28 MX": 40100,
-      "28.5 MX": 39950,
-      "29 MX": 35650,
-      "30 MX": 35550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-Travis-Scott-Reverse-Mocha-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1037,
-    "name": "Jordan 3 Retro GS",
-    "model": "A Ma Mani\u00e9re",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 12950,
-    "pricing": {
-      "23 MX": 13100,
-      "23.5 MX": 13350,
-      "24.5 MX": 12950,
-      "25 MX": 13350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-A-Ma-Maniere-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1079,
-    "name": "Jordan 6 Retro GS",
-    "model": "Infrared (2019)",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 8400,
-    "pricing": {
-      "23 MX": 8450,
-      "23.5 MX": 8400,
-      "24 MX": 8600,
-      "24.5 MX": 8500,
-      "25 MX": 8650
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Black-Infrared-2019-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1029,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Zion Voodoo",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 10050,
-    "pricing": {
-      "23 MX": 10200,
-      "23.5 MX": 10250,
-      "24 MX": 10150,
-      "24.5 MX": 10050,
-      "25 MX": 10050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-Zion-Williamson-Voodoo-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1103,
-    "name": "Jordan 12 Retro GS",
-    "model": "Cherry (2023)",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 6700,
-    "pricing": {
-      "23.5 MX": 6700,
-      "24.5 MX": 6750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Cherry-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1040,
-    "name": "Jordan 3 Retro",
-    "model": "Fire Red (2022)",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 8400,
-    "pricing": {
-      "25 MX": 8400,
-      "25.5 MX": 8500,
-      "26 MX": 8400,
-      "26.5 MX": 9200,
-      "27 MX": 9400,
-      "27.5 MX": 9300,
-      "28 MX": 9150,
-      "28.5 MX": 9300,
-      "29 MX": 8450
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1017,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Palomino",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 6650,
-    "pricing": {
-      "23.5 MX": 6650,
-      "24 MX": 6700,
-      "24.5 MX": 6650,
-      "25 MX": 6650
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Palomino-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1062,
-    "name": "Jordan 4 Retro",
-    "model": "Military Blue (2024)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 9300,
-    "pricing": {
-      "25 MX": 9350,
-      "25.5 MX": 9450,
-      "26 MX": 9400,
-      "26.5 MX": 10150,
-      "27 MX": 10050,
-      "27.5 MX": 10050,
-      "28 MX": 10300,
-      "28.5 MX": 10250,
-      "30 MX": 9300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Blue-2024-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1106,
-    "name": "Jordan 13 Retro",
-    "model": "Chicago (2017)",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 10500,
-    "pricing": {
-      "25 MX": 10700,
-      "25.5 MX": 10850,
-      "26 MX": 10650,
-      "27 MX": 11600,
-      "27.5 MX": 11800,
-      "29 MX": 10500,
-      "30 MX": 10800
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Chicago-2017-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1085,
-    "name": "Jordan 11 Retro GS",
-    "model": "Space Jam (2016)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 11000,
-    "pricing": {
-      "23 MX": 11250,
-      "23.5 MX": 11050,
-      "24 MX": 11250,
-      "24.5 MX": 11000,
-      "25 MX": 11300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Space-Jam-2016-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1010,
+    "id": 1056,
     "name": "Jordan 1 Retro High OG",
     "model": "Patent Bred",
     "brand": "Jordan",
     "category": "Retro 1",
-    "price": 8400,
-    "pricing": {
-      "25 MX": 8400,
-      "26 MX": 8550,
-      "26.5 MX": 9250,
-      "27 MX": 9150,
-      "27.5 MX": 9300,
-      "28 MX": 9150,
-      "29 MX": 8600,
-      "30 MX": 8550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Patent-Bred-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1090,
-    "name": "Jordan 11 Retro",
-    "model": "Cherry",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 9000,
-    "pricing": {
-      "25 MX": 9150,
-      "25.5 MX": 9000,
-      "26 MX": 9000,
-      "27 MX": 9800,
-      "27.5 MX": 9850,
-      "28 MX": 9850,
-      "28.5 MX": 10000,
-      "29 MX": 9150
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cherry-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1058,
-    "name": "Jordan 4 Retro",
-    "model": "Red Cement",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 8950,
-    "pricing": {
-      "25 MX": 8950,
-      "25.5 MX": 9100,
-      "26 MX": 9150,
-      "26.5 MX": 9750,
-      "27 MX": 9750,
-      "27.5 MX": 9900,
-      "28 MX": 10000,
-      "29 MX": 9050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Red-Cement-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1107,
-    "name": "Jordan 13 Retro GS",
-    "model": "Chicago (2017)",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 8450,
-    "pricing": {
-      "23 MX": 8600,
-      "23.5 MX": 8450,
-      "24 MX": 8600,
-      "24.5 MX": 8450,
-      "25 MX": 8500
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Chicago-2017-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1047,
-    "name": "Jordan 4 Retro GS",
-    "model": "Black Cat (2020)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 21100,
-    "pricing": {
-      "23 MX": 21100,
-      "23.5 MX": 21450,
-      "24.5 MX": 21250,
-      "25 MX": 21300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Black-Cat-2020-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1053,
-    "name": "Jordan 4 Retro GS",
-    "model": "White Oreo",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 11000,
-    "pricing": {
-      "23 MX": 11000,
-      "24 MX": 11150,
-      "24.5 MX": 11250,
-      "25 MX": 11000
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-White-Oreo-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1102,
-    "name": "Jordan 12 Retro",
-    "model": "Cherry (2023)",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 8150,
-    "pricing": {
-      "25.5 MX": 8350,
-      "26 MX": 8150,
-      "26.5 MX": 9100,
-      "27 MX": 8900,
-      "27.5 MX": 9100,
-      "28 MX": 9000,
-      "28.5 MX": 8950,
-      "30 MX": 8250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Cherry-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1071,
-    "name": "Jordan 5 Retro GS",
-    "model": "UNC",
-    "brand": "Jordan",
-    "category": "Retro 5",
     "price": 6600,
     "pricing": {
-      "23 MX": 6700,
-      "23.5 MX": 6650,
-      "24.5 MX": 6750,
-      "25 MX": 6600
+      "25 MX": 6750,
+      "25.5 MX": 6650,
+      "26 MX": 6600,
+      "26.5 MX": 7150,
+      "27 MX": 7100,
+      "27.5 MX": 7200,
+      "28 MX": 7200,
+      "28.5 MX": 7100,
+      "29 MX": 6650,
+      "30 MX": 6600
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-UNC-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1027,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Travis Scott Fragment",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 33700,
-    "pricing": {
-      "23 MX": 33700,
-      "23.5 MX": 33700,
-      "24 MX": 33900,
-      "24.5 MX": 34150,
-      "25 MX": 34700
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-fragment-design-x-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1033,
-    "name": "Jordan 3 Retro GS",
-    "model": "White Cement Reimagined",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 8200,
-    "pricing": {
-      "23 MX": 8200,
-      "23.5 MX": 8200,
-      "24 MX": 8250,
-      "24.5 MX": 8400,
-      "25 MX": 8250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-White-Cement-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1038,
-    "name": "Jordan 3 Retro",
-    "model": "J Balvin Medell\u00edn Sunset",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 13950,
-    "pricing": {
-      "25.5 MX": 13950,
-      "26 MX": 14150,
-      "26.5 MX": 15850,
-      "27 MX": 15600,
-      "27.5 MX": 15850,
-      "28 MX": 15750,
-      "28.5 MX": 15500,
-      "29 MX": 14000,
-      "30 MX": 14300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-SP-J-Balvin-Medellin-Sunset-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/555088-063.jpg",
     "badge": "MEN'S"
-  },
-  {
-    "id": 1013,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Shadow 2.0",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 7850,
-    "pricing": {
-      "23 MX": 7900,
-      "23.5 MX": 7850,
-      "24 MX": 8000,
-      "24.5 MX": 8000,
-      "25 MX": 8050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Shadow-20-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
   },
   {
     "id": 1009,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Shattered Backboard 3.0",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 11150,
-    "pricing": {
-      "23 MX": 11150,
-      "23.5 MX": 11200,
-      "25 MX": 11300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Shattered-Backboard-30-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1006,
-    "name": "Jordan 1 Retro High OG",
-    "model": "University Blue",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 12300,
-    "pricing": {
-      "25 MX": 12300,
-      "26 MX": 12400,
-      "26.5 MX": 13650,
-      "27.5 MX": 13500,
-      "28 MX": 13450,
-      "28.5 MX": 13550,
-      "29 MX": 12450,
-      "30 MX": 12400
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1046,
-    "name": "Jordan 4 Retro",
-    "model": "Black Cat (2020)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 27100,
-    "pricing": {
-      "25 MX": 27100,
-      "26.5 MX": 30900,
-      "27 MX": 31000,
-      "27.5 MX": 30200,
-      "28 MX": 30550,
-      "28.5 MX": 30400,
-      "29 MX": 27850,
-      "30 MX": 27150
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Black-Cat-2020-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1109,
-    "name": "Jordan 13 Retro GS",
-    "model": "Wheat",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 5700,
-    "pricing": {
-      "23 MX": 5700,
-      "23.5 MX": 5750,
-      "24 MX": 5700,
-      "24.5 MX": 5700,
-      "25 MX": 5750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Wheat-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1026,
-    "name": "Jordan 1 Retro Low OG",
-    "model": "Travis Scott Fragment",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 44300,
-    "pricing": {
-      "25 MX": 44350,
-      "25.5 MX": 45400,
-      "27 MX": 49700,
-      "27.5 MX": 50150,
-      "28 MX": 49600,
-      "28.5 MX": 49900,
-      "29 MX": 44850,
-      "30 MX": 44300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-fragment-design-x-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1004,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Travis Scott Mocha",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 49650,
-    "pricing": {
-      "25 MX": 50450,
-      "25.5 MX": 49650,
-      "26 MX": 49900,
-      "26.5 MX": 57250,
-      "27 MX": 57250,
-      "27.5 MX": 56650,
-      "28 MX": 57100,
-      "30 MX": 50450
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1052,
-    "name": "Jordan 4 Retro",
-    "model": "White Oreo",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 14000,
-    "pricing": {
-      "25 MX": 14000,
-      "25.5 MX": 14000,
-      "26 MX": 14200,
-      "27 MX": 15500,
-      "27.5 MX": 15450,
-      "28 MX": 15850,
-      "28.5 MX": 15350,
-      "30 MX": 14100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-White-Oreo-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1041,
-    "name": "Jordan 3 Retro GS",
-    "model": "Fire Red (2022)",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 6850,
-    "pricing": {
-      "23.5 MX": 6850,
-      "24 MX": 7000,
-      "24.5 MX": 6900,
-      "25 MX": 7000
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1077,
-    "name": "Jordan 6 Retro GS",
-    "model": "Travis Scott Olive",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 12950,
-    "pricing": {
-      "23 MX": 13000,
-      "23.5 MX": 13150,
-      "24.5 MX": 12950,
-      "25 MX": 13100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1039,
-    "name": "Jordan 3 Retro GS",
-    "model": "J Balvin Medell\u00edn Sunset",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 11000,
-    "pricing": {
-      "23.5 MX": 11150,
-      "24 MX": 11200,
-      "24.5 MX": 11000,
-      "25 MX": 11050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-SP-J-Balvin-Medellin-Sunset-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1056,
-    "name": "Jordan 4 Retro",
-    "model": "Thunder (2023)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 9550,
-    "pricing": {
-      "25 MX": 9700,
-      "25.5 MX": 9650,
-      "26.5 MX": 10450,
-      "27 MX": 10450,
-      "27.5 MX": 10350,
-      "28.5 MX": 10650,
-      "29 MX": 9550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Thunder-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1050,
-    "name": "Jordan 4 Retro",
-    "model": "Bred Reimagined",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 10000,
-    "pricing": {
-      "25 MX": 10000,
-      "26 MX": 10200,
-      "26.5 MX": 11100,
-      "27 MX": 11200,
-      "27.5 MX": 11150,
-      "28 MX": 11200,
-      "28.5 MX": 11150,
-      "30 MX": 10150
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Bred-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1072,
-    "name": "Jordan 5 Retro",
-    "model": "Raging Bull",
-    "brand": "Jordan",
-    "category": "Retro 5",
-    "price": 7950,
-    "pricing": {
-      "25 MX": 7950,
-      "26 MX": 8000,
-      "26.5 MX": 8550,
-      "27 MX": 8800,
-      "28 MX": 8600,
-      "28.5 MX": 8600,
-      "29 MX": 8050,
-      "30 MX": 8050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-Raging-Bull-Red-Suede-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1108,
-    "name": "Jordan 13 Retro",
-    "model": "Wheat",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 6850,
-    "pricing": {
-      "25 MX": 6950,
-      "25.5 MX": 6850,
-      "26.5 MX": 7450,
-      "27 MX": 7450,
-      "27.5 MX": 7550,
-      "28 MX": 7550,
-      "28.5 MX": 7400,
-      "30 MX": 6950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Wheat-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1096,
-    "name": "Jordan 11 Retro Low",
-    "model": "Legend Blue",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 7950,
-    "pricing": {
-      "25 MX": 8050,
-      "25.5 MX": 8000,
-      "26 MX": 8100,
-      "26.5 MX": 8700,
-      "27 MX": 8650,
-      "28 MX": 8550,
-      "30 MX": 7950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Low-Legend-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1105,
-    "name": "Jordan 13 Retro GS",
-    "model": "Flint (2020)",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 7650,
-    "pricing": {
-      "23.5 MX": 7650,
-      "24.5 MX": 7750,
-      "25 MX": 7700
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Flint-2020-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1088,
-    "name": "Jordan 11 Retro",
-    "model": "Cool Grey (2021)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 10500,
-    "pricing": {
-      "25 MX": 10750,
-      "25.5 MX": 10750,
-      "26 MX": 10500,
-      "26.5 MX": 11800,
-      "27 MX": 11850,
-      "27.5 MX": 11500,
-      "28 MX": 11700,
-      "28.5 MX": 11550,
-      "29 MX": 10850,
-      "30 MX": 10550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cool-Grey-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1075,
-    "name": "Jordan 6 Retro GS",
-    "model": "Travis Scott British Khaki",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 10350,
-    "pricing": {
-      "23 MX": 10350,
-      "23.5 MX": 10550,
-      "24 MX": 10700,
-      "24.5 MX": 10700,
-      "25 MX": 10450
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-British-Khaki-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1043,
-    "name": "Jordan 3 Retro GS",
-    "model": "Midnight Navy",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 6500,
-    "pricing": {
-      "24 MX": 6500,
-      "25 MX": 6550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Midnight-Navy-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1094,
-    "name": "Jordan 11 Retro Low",
-    "model": "Cement Grey",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 7250,
-    "pricing": {
-      "25 MX": 7250,
-      "25.5 MX": 7300,
-      "26 MX": 7400,
-      "26.5 MX": 7950,
-      "27 MX": 8000,
-      "27.5 MX": 7850,
-      "28 MX": 7950,
-      "28.5 MX": 7850,
-      "29 MX": 7350,
-      "30 MX": 7350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Low-Cement-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1011,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Patent Bred",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 6950,
-    "pricing": {
-      "23 MX": 6950,
-      "24.5 MX": 6950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Patent-Bred-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1049,
-    "name": "Jordan 4 Retro GS",
-    "model": "SB Pine Green",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 14150,
-    "pricing": {
-      "23 MX": 14400,
-      "23.5 MX": 14300,
-      "24 MX": 14150,
-      "24.5 MX": 14150,
-      "25 MX": 14200
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-SB-Pine-Green-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1025,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Travis Scott Black Phantom",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 18250,
-    "pricing": {
-      "23.5 MX": 18250,
-      "24 MX": 18250,
-      "24.5 MX": 18300,
-      "25 MX": 18250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-Travis-Scott-Black-Phantom-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1014,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Taxi (Yellow Toe)",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 7750,
-    "pricing": {
-      "25 MX": 7750,
-      "25.5 MX": 7750,
-      "26 MX": 7750,
-      "26.5 MX": 8450,
-      "27 MX": 8350,
-      "27.5 MX": 8350,
-      "28 MX": 8450,
-      "29 MX": 7750,
-      "30 MX": 7800
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Taxi-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1065,
-    "name": "Jordan 4 Retro GS",
-    "model": "Off-White Sail",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 34350,
-    "pricing": {
-      "23 MX": 34500,
-      "23.5 MX": 34700,
-      "24.5 MX": 34400,
-      "25 MX": 34350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Off-White-Sail-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1097,
-    "name": "Jordan 11 Retro GS Low",
-    "model": "Legend Blue",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 6400,
-    "pricing": {
-      "23 MX": 6500,
-      "23.5 MX": 6550,
-      "24 MX": 6550,
-      "24.5 MX": 6450,
-      "25 MX": 6400
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Low-Legend-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1030,
-    "name": "Jordan 1 Retro Low OG",
-    "model": "Black Toe (2023)",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 6300,
-    "pricing": {
-      "25 MX": 6400,
-      "25.5 MX": 6300,
-      "26 MX": 6300,
-      "26.5 MX": 6850,
-      "27 MX": 6950,
-      "28 MX": 6900,
-      "28.5 MX": 6850,
-      "29 MX": 6350,
-      "30 MX": 6400
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-Black-Toe-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1002,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Dark Mocha",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 15600,
-    "pricing": {
-      "25 MX": 15600,
-      "25.5 MX": 15700,
-      "26 MX": 15900,
-      "26.5 MX": 17450,
-      "27 MX": 17700,
-      "27.5 MX": 17400,
-      "28 MX": 17650,
-      "28.5 MX": 17650,
-      "29 MX": 15950,
-      "30 MX": 15950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Dark-Mocha-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1099,
-    "name": "Jordan 12 Retro GS",
-    "model": "Flu Game",
-    "brand": "Jordan",
-    "category": "Otros Retro",
-    "price": 10000,
-    "pricing": {
-      "23 MX": 10250,
-      "23.5 MX": 10000,
-      "24 MX": 10050,
-      "24.5 MX": 10300,
-      "25 MX": 10100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Flu-Game-2016-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1083,
-    "name": "Jordan 11 Retro GS",
-    "model": "Concord (2018)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 11550,
-    "pricing": {
-      "23 MX": 11550,
-      "24 MX": 11600,
-      "24.5 MX": 11800,
-      "25 MX": 11700
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Concord-2018-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1059,
     "name": "Jordan 4 Retro GS",
     "model": "Red Cement",
     "brand": "Jordan",
     "category": "Retro 4",
-    "price": 7200,
+    "price": 5750,
     "pricing": {
-      "23 MX": 7400,
-      "23.5 MX": 7300,
-      "24 MX": 7200,
-      "24.5 MX": 7350,
-      "25 MX": 7200
+      "23 MX": 5750,
+      "23.5 MX": 5800,
+      "24 MX": 5850,
+      "24.5 MX": 5800,
+      "25 MX": 5800
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Red-Cement-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/DH6927-161.jpg",
     "badge": "GS (JUNIOR)"
   },
   {
-    "id": 1091,
-    "name": "Jordan 11 Retro GS",
-    "model": "Cherry",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 7300,
-    "pricing": {
-      "23 MX": 7300,
-      "23.5 MX": 7400,
-      "24 MX": 7300,
-      "24.5 MX": 7300,
-      "25 MX": 7300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cherry-2022-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1104,
-    "name": "Jordan 13 Retro",
-    "model": "Flint (2020)",
+    "id": 1218,
+    "name": "Jordan 12 Retro",
+    "model": "Flu Game",
     "brand": "Jordan",
     "category": "Otros Retro",
-    "price": 9500,
+    "price": 9100,
     "pricing": {
-      "25 MX": 9700,
-      "25.5 MX": 9600,
-      "26 MX": 9500,
-      "26.5 MX": 10400,
-      "27 MX": 10650,
-      "27.5 MX": 10450,
-      "28 MX": 10600,
-      "28.5 MX": 10650,
-      "29 MX": 9650,
-      "30 MX": 9700
+      "25.5 MX": 9250,
+      "26 MX": 9100,
+      "26.5 MX": 9900,
+      "27 MX": 9950,
+      "27.5 MX": 10050,
+      "28 MX": 10150,
+      "28.5 MX": 10100,
+      "29 MX": 9150,
+      "30 MX": 9350
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-13-Retro-Flint-2020-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/130690-002.webp",
     "badge": "MEN'S"
   },
   {
-    "id": 1064,
-    "name": "Jordan 4 Retro",
-    "model": "Off-White Sail",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 44250,
-    "pricing": {
-      "25 MX": 44550,
-      "25.5 MX": 45250,
-      "26 MX": 44350,
-      "27 MX": 50200,
-      "27.5 MX": 49900,
-      "28.5 MX": 49300,
-      "29 MX": 44250,
-      "30 MX": 44850
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Off-White-Sail-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1045,
-    "name": "Jordan 4 Retro GS",
-    "model": "Military Black",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 11850,
-    "pricing": {
-      "23 MX": 11950,
-      "23.5 MX": 11900,
-      "24.5 MX": 11900,
-      "25 MX": 11850
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1024,
+    "id": 1114,
     "name": "Jordan 1 Retro Low OG",
-    "model": "Travis Scott Black Phantom",
+    "model": "Neutral Grey",
     "brand": "Jordan",
     "category": "Retro 1",
-    "price": 23600,
+    "price": 7900,
     "pricing": {
-      "25 MX": 23600,
-      "25.5 MX": 23650,
-      "26 MX": 23950,
-      "26.5 MX": 26500,
-      "27 MX": 26150,
-      "27.5 MX": 25900,
-      "28.5 MX": 25850,
-      "29 MX": 23800,
-      "30 MX": 23600
+      "25 MX": 7900,
+      "25.5 MX": 8050,
+      "26 MX": 7900,
+      "26.5 MX": 8600,
+      "27 MX": 8600,
+      "27.5 MX": 8700,
+      "28 MX": 8550,
+      "28.5 MX": 8600,
+      "29 MX": 7900,
+      "30 MX": 7900
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-Travis-Scott-Black-Phantom-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
+    "image": "/images/CZ0790-100.webp",
+    "badge": "MEN'S"
   },
   {
-    "id": 1021,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Travis Scott Reverse Mocha",
+    "id": 1220,
+    "name": "Jordan 12 Retro",
+    "model": "Playoffs",
     "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 26850,
+    "category": "Otros Retro",
+    "price": 7450,
     "pricing": {
-      "23 MX": 26850,
-      "23.5 MX": 27400,
-      "24 MX": 27350,
-      "24.5 MX": 27700,
-      "25 MX": 27650
+      "25 MX": 7550,
+      "25.5 MX": 7650,
+      "26 MX": 7550,
+      "26.5 MX": 8050,
+      "27 MX": 8100,
+      "27.5 MX": 8050,
+      "28 MX": 8150,
+      "28.5 MX": 8150,
+      "29 MX": 7450,
+      "30 MX": 7500
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Low-Travis-Scott-Reverse-Mocha-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
+    "image": "/images/CT8013-006.jpg",
+    "badge": "MEN'S"
   },
   {
-    "id": 1057,
-    "name": "Jordan 4 Retro GS",
-    "model": "Thunder (2023)",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 7650,
-    "pricing": {
-      "23 MX": 7650,
-      "23.5 MX": 7700,
-      "25 MX": 7750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Thunder-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1019,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "UNC Toe",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 7000,
-    "pricing": {
-      "23 MX": 7100,
-      "23.5 MX": 7050,
-      "24 MX": 7000,
-      "24.5 MX": 7050,
-      "25 MX": 7150
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-UNC-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1015,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Taxi (Yellow Toe)",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 6200,
-    "pricing": {
-      "23 MX": 6200,
-      "23.5 MX": 6300,
-      "24 MX": 6250,
-      "24.5 MX": 6300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Taxi-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1023,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Travis Scott Olive",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 19950,
-    "pricing": {
-      "23.5 MX": 19950,
-      "24 MX": 20150,
-      "24.5 MX": 20400
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Olive-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1066,
-    "name": "Jordan 4 Retro",
-    "model": "Union Guava Ice",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 24800,
-    "pricing": {
-      "25 MX": 25250,
-      "25.5 MX": 24950,
-      "26 MX": 24800,
-      "26.5 MX": 27700,
-      "27 MX": 27500,
-      "27.5 MX": 27350,
-      "28.5 MX": 27250,
-      "30 MX": 25300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Union-Guava-Ice-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1082,
+    "id": 1198,
     "name": "Jordan 11 Retro",
-    "model": "Concord (2018)",
+    "model": "Bred",
     "brand": "Jordan",
     "category": "Retro 11",
-    "price": 14900,
+    "price": 10350,
     "pricing": {
-      "25 MX": 15200,
-      "25.5 MX": 14900,
-      "26 MX": 15200,
-      "26.5 MX": 16750,
-      "27 MX": 16500,
-      "27.5 MX": 16350,
-      "28 MX": 16300,
-      "28.5 MX": 16400,
-      "29 MX": 15000,
-      "30 MX": 15000
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Concord-2018-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1032,
-    "name": "Jordan 3 Retro",
-    "model": "White Cement Reimagined",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 10250,
-    "pricing": {
-      "25 MX": 10250,
-      "25.5 MX": 10250,
-      "26 MX": 10250,
-      "27 MX": 11450,
+      "25 MX": 10600,
+      "25.5 MX": 10600,
+      "26 MX": 10350,
+      "26.5 MX": 11250,
+      "27 MX": 11500,
       "27.5 MX": 11300,
-      "28.5 MX": 11350,
-      "29 MX": 10350
+      "28 MX": 11450,
+      "28.5 MX": 11400,
+      "29 MX": 10400,
+      "30 MX": 10350
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-White-Cement-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1080,
-    "name": "Jordan 6 Retro",
-    "model": "Carmine (2021)",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 8450,
-    "pricing": {
-      "25.5 MX": 8550,
-      "26 MX": 8600,
-      "26.5 MX": 9400,
-      "27 MX": 9200,
-      "27.5 MX": 9250,
-      "28 MX": 9200,
-      "28.5 MX": 9250,
-      "29 MX": 8500,
-      "30 MX": 8450
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Carmine-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1022,
-    "name": "Jordan 1 Retro Low OG",
-    "model": "Travis Scott Olive",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 26350,
-    "pricing": {
-      "25.5 MX": 26400,
-      "27 MX": 29550,
-      "27.5 MX": 29550,
-      "28.5 MX": 29550,
-      "30 MX": 26350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Olive-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GRAIL"
-  },
-  {
-    "id": 1028,
-    "name": "Jordan 1 Retro Low OG",
-    "model": "Zion Voodoo",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 12650,
-    "pricing": {
-      "25 MX": 12650,
-      "26 MX": 12800,
-      "26.5 MX": 14200,
-      "27 MX": 14100,
-      "27.5 MX": 14350,
-      "28.5 MX": 14050,
-      "29 MX": 12850
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-Zion-Williamson-Voodoo-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1093,
-    "name": "Jordan 11 Retro GS",
-    "model": "Gratitude",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 6650,
-    "pricing": {
-      "23 MX": 6650,
-      "23.5 MX": 6700,
-      "24.5 MX": 6750,
-      "25 MX": 6750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-DMP-Gratitude-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1003,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Dark Mocha",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 12150,
-    "pricing": {
-      "23 MX": 12300,
-      "23.5 MX": 12400,
-      "24 MX": 12150
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Dark-Mocha-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1018,
-    "name": "Jordan 1 Retro High OG",
-    "model": "UNC Toe",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 8800,
-    "pricing": {
-      "25 MX": 8850,
-      "25.5 MX": 8800,
-      "26 MX": 8800,
-      "26.5 MX": 9650,
-      "27.5 MX": 9600,
-      "28 MX": 9650,
-      "29 MX": 8800,
-      "30 MX": 8850
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-UNC-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1005,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Travis Scott Mocha",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 38200,
-    "pricing": {
-      "23 MX": 38700,
-      "23.5 MX": 38200,
-      "24 MX": 38800,
-      "25 MX": 38550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1076,
-    "name": "Jordan 6 Retro",
-    "model": "Travis Scott Olive",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 16550,
-    "pricing": {
-      "25 MX": 16550,
-      "26.5 MX": 18750,
-      "27 MX": 18850,
-      "27.5 MX": 18450,
-      "28 MX": 18800,
-      "28.5 MX": 18500,
-      "29 MX": 16700,
-      "30 MX": 16750
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1036,
-    "name": "Jordan 3 Retro",
-    "model": "A Ma Mani\u00e9re",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 16650,
-    "pricing": {
-      "25.5 MX": 16750,
-      "26 MX": 16650,
-      "26.5 MX": 18600,
-      "27 MX": 18900,
-      "27.5 MX": 18400,
-      "28 MX": 18600,
-      "28.5 MX": 18350,
-      "29 MX": 16950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-A-Ma-Maniere-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1001,
-    "name": "Jordan 1 Retro GS High OG",
-    "model": "Chicago Lost & Found",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 10850,
-    "pricing": {
-      "23 MX": 10850,
-      "23.5 MX": 10950,
-      "24 MX": 10950,
-      "24.5 MX": 10900,
-      "25 MX": 11050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined-Lost-and-Found-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1095,
-    "name": "Jordan 11 Retro GS Low",
-    "model": "Cement Grey",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 5950,
-    "pricing": {
-      "23 MX": 5950,
-      "23.5 MX": 5950,
-      "24 MX": 6050,
-      "24.5 MX": 5950,
-      "25 MX": 6050
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Low-Cement-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1087,
-    "name": "Jordan 11 Retro GS",
-    "model": "Bred (2019)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 10050,
-    "pricing": {
-      "23 MX": 10050,
-      "23.5 MX": 10100,
-      "24 MX": 10250,
-      "24.5 MX": 10250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Playoffs-2019-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1084,
-    "name": "Jordan 11 Retro",
-    "model": "Space Jam (2016)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 13950,
-    "pricing": {
-      "25.5 MX": 14350,
-      "26.5 MX": 15550,
-      "27 MX": 15700,
-      "27.5 MX": 15350,
-      "28 MX": 15500,
-      "28.5 MX": 15500,
-      "29 MX": 13950
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Space-Jam-2016-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/378037-061.jpg",
     "badge": "MEN'S"
   },
   {
     "id": 1089,
-    "name": "Jordan 11 Retro GS",
-    "model": "Cool Grey (2021)",
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Electro Orange",
     "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 8400,
+    "category": "Retro 1",
+    "price": 5000,
     "pricing": {
-      "23 MX": 8400,
-      "23.5 MX": 8550,
-      "24 MX": 8600,
-      "25 MX": 8400
+      "23 MX": 5000,
+      "23.5 MX": 5050,
+      "24 MX": 5050,
+      "24.5 MX": 5000,
+      "25 MX": 5050
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cool-Grey-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/555088-180.jpg",
     "badge": "GS (JUNIOR)"
   },
   {
-    "id": 1068,
+    "id": 1033,
+    "name": "Jordan 4 Retro GS",
+    "model": "Off-White Sail",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 22600,
+    "pricing": {
+      "23 MX": 23350,
+      "24 MX": 23200,
+      "24.5 MX": 22600,
+      "25 MX": 22600
+    },
+    "image": "/images/CV9388-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1205,
+    "name": "Jordan 11 Retro GS",
+    "model": "Gratitude",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5800,
+      "23.5 MX": 5850,
+      "24 MX": 5850,
+      "24.5 MX": 5850,
+      "25 MX": 5750
+    },
+    "image": "/images/CT8012-170.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1012,
+    "name": "Jordan 4 Retro",
+    "model": "Military Blue (2024)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7050,
+      "25.5 MX": 7050,
+      "26 MX": 7150,
+      "26.5 MX": 7650,
+      "27 MX": 7600,
+      "27.5 MX": 7750,
+      "28 MX": 7750,
+      "28.5 MX": 7750,
+      "29 MX": 7050,
+      "30 MX": 7150
+    },
+    "image": "/images/FV5029-141.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1003,
+    "name": "Jordan 4 Retro GS",
+    "model": "Military Black",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8400,
+    "pricing": {
+      "23 MX": 8550,
+      "23.5 MX": 8550,
+      "24 MX": 8400,
+      "24.5 MX": 8550,
+      "25 MX": 8550
+    },
+    "image": "/images/DH6927-111.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1105,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Travis Scott Black Phantom",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 13300,
+    "pricing": {
+      "23 MX": 13400,
+      "23.5 MX": 13300,
+      "24 MX": 13700,
+      "24.5 MX": 13550,
+      "25 MX": 13550
+    },
+    "image": "/images/DM7866-001.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1132,
+    "name": "Jordan 3 Retro",
+    "model": "Black Cement (2018)",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 9900,
+    "pricing": {
+      "25 MX": 10050,
+      "25.5 MX": 10200,
+      "26 MX": 10000,
+      "26.5 MX": 11050,
+      "27 MX": 10950,
+      "27.5 MX": 11100,
+      "28 MX": 11100,
+      "28.5 MX": 10850,
+      "29 MX": 10100,
+      "30 MX": 9900
+    },
+    "image": "/images/854262-001.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1078,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Spider-Man",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6650,
+    "pricing": {
+      "25 MX": 6750,
+      "25.5 MX": 6700,
+      "26 MX": 6700,
+      "26.5 MX": 7250,
+      "27 MX": 7200,
+      "27.5 MX": 7200,
+      "28 MX": 7250,
+      "28.5 MX": 7200,
+      "29 MX": 6650,
+      "30 MX": 6650
+    },
+    "image": "/images/DV1748-601.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1131,
+    "name": "Jordan 3 Retro GS",
+    "model": "White Cement Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6700,
+    "pricing": {
+      "23 MX": 6800,
+      "23.5 MX": 6750,
+      "24 MX": 6750,
+      "24.5 MX": 6700,
+      "25 MX": 6700
+    },
+    "image": "/images/DN3707-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1008,
+    "name": "Jordan 4 Retro",
+    "model": "Red Cement",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6800,
+    "pricing": {
+      "25 MX": 6800,
+      "25.5 MX": 6950,
+      "26 MX": 6850,
+      "26.5 MX": 7450,
+      "27 MX": 7450,
+      "27.5 MX": 7500,
+      "29 MX": 6900
+    },
+    "image": "/images/DH6927-161.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1142,
+    "name": "Jordan 3 Retro",
+    "model": "A Ma Mani\u00e9re",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 12450,
+    "pricing": {
+      "25 MX": 12450,
+      "25.5 MX": 12450,
+      "26 MX": 12600,
+      "26.5 MX": 13600,
+      "27 MX": 13950,
+      "28 MX": 13750,
+      "28.5 MX": 14000,
+      "29 MX": 12450,
+      "30 MX": 12700
+    },
+    "image": "/images/DH3434-110.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1186,
+    "name": "Jordan 6 Retro",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 6650,
+    "pricing": {
+      "25 MX": 6700,
+      "25.5 MX": 6650,
+      "26 MX": 6700,
+      "26.5 MX": 7150,
+      "27 MX": 7300,
+      "27.5 MX": 7200,
+      "28 MX": 7150,
+      "28.5 MX": 7200,
+      "29 MX": 6650,
+      "30 MX": 6700
+    },
+    "image": "/images/CT8529-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1195,
+    "name": "Jordan 11 Retro GS",
+    "model": "Concord",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 9450,
+    "pricing": {
+      "23 MX": 9600,
+      "23.5 MX": 9450,
+      "24 MX": 9600,
+      "24.5 MX": 9650,
+      "25 MX": 9600
+    },
+    "image": "/images/378037-100.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1004,
+    "name": "Jordan 4 Retro",
+    "model": "SB Pine Green",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 12450,
+    "pricing": {
+      "25 MX": 12450,
+      "25.5 MX": 12600,
+      "26 MX": 12650,
+      "26.5 MX": 13900,
+      "27 MX": 13650,
+      "27.5 MX": 13850,
+      "28 MX": 13700,
+      "28.5 MX": 13950,
+      "29 MX": 12450,
+      "30 MX": 12650
+    },
+    "image": "/images/DR5415-103.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1083,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Brotherhood",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4650,
+    "pricing": {
+      "23 MX": 4700,
+      "23.5 MX": 4700,
+      "24 MX": 4650,
+      "24.5 MX": 4750,
+      "25 MX": 4750
+    },
+    "image": "/images/555088-706.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1189,
+    "name": "Jordan 6 Retro GS",
+    "model": "UNC Home",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5900,
+      "23.5 MX": 5900,
+      "24 MX": 5900,
+      "24.5 MX": 6000,
+      "25 MX": 6000
+    },
+    "image": "/images/CT8529-410.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1117,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Atmosphere Grey",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4500,
+    "pricing": {
+      "23 MX": 4600,
+      "23.5 MX": 4500,
+      "24 MX": 4500,
+      "24.5 MX": 4500,
+      "25 MX": 4500
+    },
+    "image": "/images/CZ0790-101.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1162,
     "name": "Jordan 5 Retro",
     "model": "Off-White Muslin",
     "brand": "Jordan",
     "category": "Retro 5",
-    "price": 27250,
+    "price": 22150,
     "pricing": {
-      "25.5 MX": 27250,
-      "26.5 MX": 30500,
-      "27 MX": 30600,
-      "28 MX": 30950,
-      "28.5 MX": 30200,
-      "29 MX": 28050,
-      "30 MX": 27350
+      "25 MX": 22550,
+      "25.5 MX": 22150,
+      "26.5 MX": 25000,
+      "27 MX": 25300,
+      "27.5 MX": 24950,
+      "28 MX": 25100,
+      "28.5 MX": 25250,
+      "29 MX": 22600,
+      "30 MX": 22550
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-5-Retro-Off-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/CT8480-001.jpg",
     "badge": "GRAIL"
   },
   {
-    "id": 1042,
-    "name": "Jordan 3 Retro",
-    "model": "Midnight Navy",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 7950,
-    "pricing": {
-      "25 MX": 7950,
-      "25.5 MX": 7950,
-      "26 MX": 8100,
-      "26.5 MX": 8700,
-      "27 MX": 8700,
-      "27.5 MX": 8800,
-      "28 MX": 8650,
-      "28.5 MX": 8800
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Midnight-Navy-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1061,
-    "name": "Jordan 4 Retro GS",
-    "model": "Midnight Navy",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 8900,
-    "pricing": {
-      "23 MX": 9050,
-      "24 MX": 8900,
-      "24.5 MX": 8950,
-      "25 MX": 9000
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Midnight-Navy-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1086,
-    "name": "Jordan 11 Retro",
-    "model": "Bred (2019)",
-    "brand": "Jordan",
-    "category": "Retro 11",
-    "price": 12650,
-    "pricing": {
-      "25 MX": 12900,
-      "26 MX": 12650,
-      "26.5 MX": 14300,
-      "27 MX": 13900,
-      "27.5 MX": 14250,
-      "28 MX": 14150,
-      "28.5 MX": 14300,
-      "29 MX": 12700,
-      "30 MX": 12650
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Playoffs-2019-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1008,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Shattered Backboard 3.0",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 14050,
-    "pricing": {
-      "25 MX": 14150,
-      "25.5 MX": 14050,
-      "26 MX": 14050,
-      "26.5 MX": 15850,
-      "27 MX": 15700,
-      "27.5 MX": 15400,
-      "28 MX": 15850,
-      "28.5 MX": 15500,
-      "29 MX": 14350,
-      "30 MX": 14100
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Shattered-Backboard-30-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1031,
-    "name": "Jordan 1 Retro GS Low OG",
-    "model": "Black Toe (2023)",
-    "brand": "Jordan",
-    "category": "Retro 1",
-    "price": 5300,
-    "pricing": {
-      "23 MX": 5300,
-      "24 MX": 5350,
-      "25 MX": 5300
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-Black-Toe-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1060,
-    "name": "Jordan 4 Retro",
-    "model": "Midnight Navy",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 11150,
-    "pricing": {
-      "25.5 MX": 11150,
-      "26 MX": 11250,
-      "27.5 MX": 12200,
-      "28 MX": 12200,
-      "28.5 MX": 12500,
-      "29 MX": 11200
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Midnight-Navy-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1035,
-    "name": "Jordan 3 Retro GS",
-    "model": "Black Cement (2018)",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 10400,
-    "pricing": {
-      "23 MX": 10450,
-      "23.5 MX": 10700,
-      "24 MX": 10400,
-      "25 MX": 10550
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Black-Cement-2018-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "GS (JUNIOR)"
-  },
-  {
-    "id": 1074,
-    "name": "Jordan 6 Retro",
-    "model": "Travis Scott British Khaki",
-    "brand": "Jordan",
-    "category": "Retro 6",
-    "price": 13250,
-    "pricing": {
-      "25.5 MX": 13300,
-      "26 MX": 13250,
-      "26.5 MX": 14900,
-      "27 MX": 14600,
-      "27.5 MX": 14850,
-      "28 MX": 14550,
-      "28.5 MX": 14900,
-      "29 MX": 13350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-British-Khaki-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1098,
+    "id": 1224,
     "name": "Jordan 12 Retro",
-    "model": "Flu Game",
+    "model": "Cherry",
     "brand": "Jordan",
     "category": "Otros Retro",
-    "price": 12750,
+    "price": 7050,
     "pricing": {
-      "25 MX": 12950,
-      "25.5 MX": 12900,
-      "26 MX": 12750,
-      "26.5 MX": 14000,
-      "27 MX": 14300,
-      "27.5 MX": 14150,
-      "28 MX": 14300,
-      "28.5 MX": 14350,
-      "29 MX": 12750,
-      "30 MX": 12900
+      "25 MX": 7200,
+      "26 MX": 7100,
+      "26.5 MX": 7700,
+      "27 MX": 7600,
+      "27.5 MX": 7750,
+      "28 MX": 7600,
+      "28.5 MX": 7650,
+      "29 MX": 7100,
+      "30 MX": 7050
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-12-Retro-Flu-Game-2016-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/CT8013-116.jpg",
     "badge": "MEN'S"
   },
   {
-    "id": 1054,
-    "name": "Jordan 4 Retro",
-    "model": "University Blue",
-    "brand": "Jordan",
-    "category": "Retro 4",
-    "price": 13150,
-    "pricing": {
-      "25.5 MX": 13150,
-      "26 MX": 13300,
-      "26.5 MX": 14600,
-      "27 MX": 14900,
-      "28 MX": 14900,
-      "29 MX": 13250
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-University-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1034,
-    "name": "Jordan 3 Retro",
-    "model": "Black Cement (2018)",
-    "brand": "Jordan",
-    "category": "Retro 3",
-    "price": 13200,
-    "pricing": {
-      "25 MX": 13450,
-      "25.5 MX": 13200,
-      "26 MX": 13350,
-      "26.5 MX": 14700,
-      "27 MX": 14800,
-      "27.5 MX": 14850,
-      "28 MX": 14950,
-      "29 MX": 13400,
-      "30 MX": 13350
-    },
-    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-Black-Cement-2018-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
-    "badge": "MEN'S"
-  },
-  {
-    "id": 1051,
+    "id": 1019,
     "name": "Jordan 4 Retro GS",
-    "model": "Bred Reimagined",
+    "model": "University Blue",
     "brand": "Jordan",
     "category": "Retro 4",
     "price": 8050,
     "pricing": {
       "23 MX": 8050,
-      "23.5 MX": 8050,
-      "24 MX": 8150,
-      "24.5 MX": 8150,
-      "25 MX": 8100
+      "23.5 MX": 8150,
+      "24 MX": 8100,
+      "24.5 MX": 8250,
+      "25 MX": 8250
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Bred-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/CT8527-400.jpg",
     "badge": "GS (JUNIOR)"
   },
   {
-    "id": 1012,
-    "name": "Jordan 1 Retro High OG",
-    "model": "Shadow 2.0",
+    "id": 1127,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Shadow",
     "brand": "Jordan",
     "category": "Retro 1",
-    "price": 9750,
+    "price": 4650,
     "pricing": {
-      "25 MX": 9750,
-      "25.5 MX": 9850,
-      "26 MX": 10000,
-      "26.5 MX": 10800,
-      "27.5 MX": 10750,
-      "28 MX": 10750,
-      "28.5 MX": 10750,
-      "29 MX": 9850
+      "23 MX": 4750,
+      "23.5 MX": 4750,
+      "24 MX": 4700,
+      "25 MX": 4650
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Shadow-20-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/CZ0790-003.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1183,
+    "name": "Jordan 6 Retro GS",
+    "model": "Carmine",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 5950,
+    "pricing": {
+      "23 MX": 6000,
+      "23.5 MX": 5950,
+      "24 MX": 6000,
+      "24.5 MX": 5950,
+      "25 MX": 5950
+    },
+    "image": "/images/CT8529-106.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1200,
+    "name": "Jordan 11 Retro",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 8700,
+    "pricing": {
+      "25 MX": 8750,
+      "25.5 MX": 8700,
+      "26 MX": 8800,
+      "26.5 MX": 9650,
+      "27 MX": 9650,
+      "27.5 MX": 9650,
+      "28 MX": 9550,
+      "28.5 MX": 9450,
+      "29 MX": 8900,
+      "30 MX": 8750
+    },
+    "image": "/images/CT8012-005.jpg",
     "badge": "MEN'S"
   },
   {
-    "id": 1055,
+    "id": 1233,
+    "name": "Jordan 13 Retro GS",
+    "model": "Wolf Grey",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 5650,
+    "pricing": {
+      "23 MX": 5700,
+      "23.5 MX": 5650,
+      "24 MX": 5650,
+      "24.5 MX": 5700,
+      "25 MX": 5650
+    },
+    "image": "/images/414571-160.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1172,
+    "name": "Jordan 5 Retro",
+    "model": "Shattered Backboard",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7050,
+      "25.5 MX": 7050,
+      "26 MX": 7050,
+      "26.5 MX": 7650,
+      "27 MX": 7700,
+      "27.5 MX": 7650,
+      "28 MX": 7600,
+      "28.5 MX": 7600,
+      "29 MX": 7200,
+      "30 MX": 7150
+    },
+    "image": "/images/DC1060-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1156,
+    "name": "Jordan 3 Retro",
+    "model": "Patchwork",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6000,
+    "pricing": {
+      "25 MX": 6100,
+      "25.5 MX": 6050,
+      "26 MX": 6050,
+      "26.5 MX": 6500,
+      "27 MX": 6550,
+      "27.5 MX": 6500,
+      "28 MX": 6550,
+      "28.5 MX": 6450,
+      "29 MX": 6000,
+      "30 MX": 6150
+    },
+    "image": "/images/DO1830-200.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1191,
+    "name": "Jordan 6 Retro GS",
+    "model": "Georgetown",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5800,
+      "23.5 MX": 5850,
+      "24 MX": 5850,
+      "24.5 MX": 5850,
+      "25 MX": 5750
+    },
+    "image": "/images/CT8529-012.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1164,
+    "name": "Jordan 5 Retro",
+    "model": "Raging Bull",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 6650,
+    "pricing": {
+      "25 MX": 6750,
+      "25.5 MX": 6650,
+      "26 MX": 6700,
+      "26.5 MX": 7250,
+      "27 MX": 7300,
+      "27.5 MX": 7200,
+      "28 MX": 7150,
+      "28.5 MX": 7250,
+      "29 MX": 6750
+    },
+    "image": "/images/DD0587-600.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1175,
+    "name": "Jordan 5 Retro GS",
+    "model": "Moonlight",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 6050,
+    "pricing": {
+      "23 MX": 6100,
+      "23.5 MX": 6150,
+      "24 MX": 6050,
+      "24.5 MX": 6050
+    },
+    "image": "/images/CT4838-011.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1173,
+    "name": "Jordan 5 Retro GS",
+    "model": "Shattered Backboard",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5950,
+    "pricing": {
+      "23.5 MX": 6000,
+      "24.5 MX": 6000,
+      "25 MX": 5950
+    },
+    "image": "/images/DC1060-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1232,
+    "name": "Jordan 13 Retro",
+    "model": "Wolf Grey",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 6650,
+    "pricing": {
+      "25 MX": 6750,
+      "25.5 MX": 6650,
+      "26 MX": 6700,
+      "26.5 MX": 7250,
+      "27 MX": 7200,
+      "27.5 MX": 7150,
+      "28 MX": 7150,
+      "29 MX": 6650,
+      "30 MX": 6650
+    },
+    "image": "/images/414571-160.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1143,
+    "name": "Jordan 3 Retro GS",
+    "model": "A Ma Mani\u00e9re",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 9950,
+    "pricing": {
+      "23 MX": 9950,
+      "23.5 MX": 10000,
+      "24 MX": 10150,
+      "24.5 MX": 9950,
+      "25 MX": 10100
+    },
+    "image": "/images/DH3434-110.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1032,
+    "name": "Jordan 4 Retro",
+    "model": "Off-White Sail",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 29900,
+    "pricing": {
+      "26 MX": 30300,
+      "26.5 MX": 33400,
+      "27 MX": 32750,
+      "28 MX": 32950,
+      "28.5 MX": 33200,
+      "29 MX": 29900,
+      "30 MX": 30150
+    },
+    "image": "/images/CV9388-100.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1223,
+    "name": "Jordan 12 Retro GS",
+    "model": "Royalty",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 6350,
+    "pricing": {
+      "23 MX": 6500,
+      "23.5 MX": 6450,
+      "24 MX": 6450,
+      "24.5 MX": 6500,
+      "25 MX": 6350
+    },
+    "image": "/images/CT8013-170.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1072,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Satin Bred",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5450,
+    "pricing": {
+      "25 MX": 5500,
+      "25.5 MX": 5450,
+      "26 MX": 5450,
+      "26.5 MX": 5800,
+      "27.5 MX": 5850,
+      "28 MX": 5800,
+      "28.5 MX": 5800,
+      "29 MX": 5450,
+      "30 MX": 5500
+    },
+    "image": "/images/FD4810-061.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1013,
     "name": "Jordan 4 Retro GS",
+    "model": "Military Blue (2024)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5900,
+      "23.5 MX": 5950,
+      "24 MX": 5950,
+      "24.5 MX": 5950,
+      "25 MX": 5900
+    },
+    "image": "/images/FV5029-141.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1134,
+    "name": "Jordan 3 Retro",
+    "model": "J Balvin Medell\u00edn",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 10750,
+    "pricing": {
+      "25 MX": 11050,
+      "25.5 MX": 10800,
+      "26 MX": 10900,
+      "26.5 MX": 11800,
+      "27 MX": 12000,
+      "27.5 MX": 11850,
+      "28 MX": 11850,
+      "28.5 MX": 12000,
+      "29 MX": 10750,
+      "30 MX": 10850
+    },
+    "image": "/images/FN0344-901.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1153,
+    "name": "Jordan 3 Retro GS",
+    "model": "Pine Green",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6400,
+    "pricing": {
+      "23 MX": 6450,
+      "23.5 MX": 6400,
+      "24 MX": 6400,
+      "24.5 MX": 6400,
+      "25 MX": 6400
+    },
+    "image": "/images/CT8532-030.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1071,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Green Glow",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4900,
+    "pricing": {
+      "23 MX": 4900,
+      "23.5 MX": 4900,
+      "24 MX": 4900,
+      "24.5 MX": 4900,
+      "25 MX": 4900
+    },
+    "image": "/images/DZ5485-130.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1187,
+    "name": "Jordan 6 Retro GS",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5700,
+      "23.5 MX": 5650,
+      "24 MX": 5650,
+      "24.5 MX": 5600,
+      "25 MX": 5700
+    },
+    "image": "/images/CT8529-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1201,
+    "name": "Jordan 11 Retro GS",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 7150,
+    "pricing": {
+      "23 MX": 7200,
+      "23.5 MX": 7300,
+      "24 MX": 7150,
+      "24.5 MX": 7250,
+      "25 MX": 7300
+    },
+    "image": "/images/CT8012-005.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1043,
+    "name": "Jordan 4 Retro GS",
+    "model": "Shimmer",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7500,
+    "pricing": {
+      "23 MX": 7550,
+      "23.5 MX": 7550,
+      "24 MX": 7500,
+      "24.5 MX": 7500,
+      "25 MX": 7600
+    },
+    "image": "/images/DJ0675-200.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1197,
+    "name": "Jordan 11 Retro GS",
+    "model": "Space Jam",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 9000,
+    "pricing": {
+      "23 MX": 9000,
+      "23.5 MX": 9200,
+      "24 MX": 9050,
+      "24.5 MX": 9050,
+      "25 MX": 9100
+    },
+    "image": "/images/378037-003.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1110,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Starfish",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6300,
+    "pricing": {
+      "25 MX": 6350,
+      "25.5 MX": 6300,
+      "26 MX": 6350,
+      "26.5 MX": 6800,
+      "27 MX": 6800,
+      "27.5 MX": 6800,
+      "28 MX": 6700,
+      "28.5 MX": 6700,
+      "29 MX": 6350,
+      "30 MX": 6350
+    },
+    "image": "/images/CZ0790-801.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1125,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Bleached Coral",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5000,
+    "pricing": {
+      "23 MX": 5000,
+      "23.5 MX": 5000,
+      "24 MX": 5050,
+      "24.5 MX": 5000,
+      "25 MX": 5000
+    },
+    "image": "/images/CZ0790-061.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1124,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Bleached Coral",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5800,
+    "pricing": {
+      "25 MX": 5850,
+      "25.5 MX": 5850,
+      "26 MX": 5850,
+      "26.5 MX": 6300,
+      "27 MX": 6250,
+      "27.5 MX": 6250,
+      "28 MX": 6200,
+      "28.5 MX": 6250,
+      "29 MX": 5850,
+      "30 MX": 5800
+    },
+    "image": "/images/CZ0790-061.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1066,
+    "name": "Jordan 1 Retro High OG",
+    "model": "UNC Toe",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7200,
+      "25.5 MX": 7150,
+      "26 MX": 7200,
+      "26.5 MX": 7600,
+      "27 MX": 7700,
+      "27.5 MX": 7750,
+      "28 MX": 7600,
+      "28.5 MX": 7600,
+      "30 MX": 7050
+    },
+    "image": "/images/DZ5485-400.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1015,
+    "name": "Jordan 4 Retro GS",
+    "model": "Black Cat (2020)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 15800,
+    "pricing": {
+      "23 MX": 16050,
+      "24.5 MX": 15850,
+      "25 MX": 15800
+    },
+    "image": "/images/CU1110-010.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1222,
+    "name": "Jordan 12 Retro",
+    "model": "Royalty",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 7650,
+    "pricing": {
+      "25.5 MX": 7650,
+      "26 MX": 7700,
+      "26.5 MX": 8400,
+      "27 MX": 8500,
+      "27.5 MX": 8300,
+      "28 MX": 8300,
+      "28.5 MX": 8350,
+      "29 MX": 7800
+    },
+    "image": "/images/CT8013-170.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1145,
+    "name": "Jordan 3 Retro GS",
+    "model": "Wizards",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5600,
+      "23.5 MX": 5650,
+      "24 MX": 5700,
+      "24.5 MX": 5600,
+      "25 MX": 5700
+    },
+    "image": "/images/CT8532-148.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1049,
+    "name": "Jordan 4 Retro GS",
+    "model": "Fire Red (2020)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7200,
+    "pricing": {
+      "23 MX": 7200,
+      "23.5 MX": 7200,
+      "24 MX": 7200,
+      "24.5 MX": 7300
+    },
+    "image": "/images/DC7770-160.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1051,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Chicago Lost & Found",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 8450,
+    "pricing": {
+      "23 MX": 8500,
+      "23.5 MX": 8500,
+      "24 MX": 8450,
+      "24.5 MX": 8550,
+      "25 MX": 8600
+    },
+    "image": "/images/DZ5485-612.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1181,
+    "name": "Jordan 6 Retro GS",
+    "model": "Travis Scott Olive",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 9950,
+    "pricing": {
+      "23 MX": 10050,
+      "23.5 MX": 10150,
+      "24 MX": 9950,
+      "24.5 MX": 10150,
+      "25 MX": 10100
+    },
+    "image": "/images/CN1084-200.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1120,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Powder Blue",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6050,
+    "pricing": {
+      "25 MX": 6100,
+      "25.5 MX": 6050,
+      "26 MX": 6050,
+      "27 MX": 6450,
+      "27.5 MX": 6550,
+      "28 MX": 6500,
+      "30 MX": 6050
+    },
+    "image": "/images/CZ0790-104.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1133,
+    "name": "Jordan 3 Retro GS",
+    "model": "Black Cement (2018)",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 8100,
+    "pricing": {
+      "23 MX": 8150,
+      "23.5 MX": 8250,
+      "24 MX": 8200,
+      "24.5 MX": 8250,
+      "25 MX": 8100
+    },
+    "image": "/images/854262-001.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1040,
+    "name": "Jordan 4 Retro",
+    "model": "Tour Yellow",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8700,
+    "pricing": {
+      "25 MX": 8850,
+      "25.5 MX": 8900,
+      "26 MX": 8800,
+      "26.5 MX": 9650,
+      "27 MX": 9550,
+      "27.5 MX": 9650,
+      "28 MX": 9550,
+      "28.5 MX": 9550,
+      "29 MX": 8900,
+      "30 MX": 8700
+    },
+    "image": "/images/CT8527-700.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1207,
+    "name": "Jordan 11 Retro GS",
+    "model": "Jubilee",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6650,
+    "pricing": {
+      "23 MX": 6750,
+      "23.5 MX": 6750,
+      "24 MX": 6650,
+      "24.5 MX": 6850,
+      "25 MX": 6800
+    },
+    "image": "/images/CT8012-011.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1228,
+    "name": "Jordan 13 Retro",
+    "model": "Chicago",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 8750,
+    "pricing": {
+      "25 MX": 8750,
+      "25.5 MX": 8750,
+      "26 MX": 8900,
+      "26.5 MX": 9550,
+      "27 MX": 9600,
+      "27.5 MX": 9500,
+      "28 MX": 9600,
+      "28.5 MX": 9650,
+      "29 MX": 8850,
+      "30 MX": 8900
+    },
+    "image": "/images/414571-122.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1035,
+    "name": "Jordan 4 Retro GS",
+    "model": "Union Guava Ice",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 14100,
+    "pricing": {
+      "23 MX": 14350,
+      "23.5 MX": 14300,
+      "24 MX": 14100,
+      "24.5 MX": 14100,
+      "25 MX": 14400
+    },
+    "image": "/images/DC9533-800.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1119,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Year of the Dragon",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 8400,
+    "pricing": {
+      "23 MX": 8400,
+      "23.5 MX": 8550,
+      "24 MX": 8550,
+      "24.5 MX": 8550,
+      "25 MX": 8450
+    },
+    "image": "/images/FN3727-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1052,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Dark Mocha",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 11200,
+    "pricing": {
+      "25 MX": 11200,
+      "25.5 MX": 11250,
+      "26 MX": 11200,
+      "26.5 MX": 12500,
+      "27 MX": 12200,
+      "27.5 MX": 12550,
+      "28 MX": 12300,
+      "28.5 MX": 12350,
+      "29 MX": 11400,
+      "30 MX": 11300
+    },
+    "image": "/images/555088-105.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1115,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Neutral Grey",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6600,
+    "pricing": {
+      "23 MX": 6650,
+      "23.5 MX": 6600,
+      "24 MX": 6650,
+      "24.5 MX": 6600
+    },
+    "image": "/images/CZ0790-100.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1116,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Atmosphere Grey",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5200,
+    "pricing": {
+      "25 MX": 5200,
+      "25.5 MX": 5250,
+      "26.5 MX": 5500,
+      "27 MX": 5600,
+      "27.5 MX": 5550,
+      "28 MX": 5550,
+      "28.5 MX": 5550,
+      "29 MX": 5250
+    },
+    "image": "/images/CZ0790-101.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1149,
+    "name": "Jordan 3 Retro GS",
+    "model": "Desert Elephant",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5450,
+    "pricing": {
+      "23 MX": 5500,
+      "23.5 MX": 5450,
+      "24 MX": 5550,
+      "25 MX": 5500
+    },
+    "image": "/images/CT8532-008.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1087,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Pollen",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5150,
+    "pricing": {
+      "23 MX": 5200,
+      "23.5 MX": 5150,
+      "24 MX": 5150,
+      "24.5 MX": 5200,
+      "25 MX": 5150
+    },
+    "image": "/images/555088-701.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1135,
+    "name": "Jordan 3 Retro GS",
+    "model": "J Balvin Medell\u00edn",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 8700,
+    "pricing": {
+      "23 MX": 8800,
+      "23.5 MX": 8800,
+      "24 MX": 8750,
+      "24.5 MX": 8700,
+      "25 MX": 8850
+    },
+    "image": "/images/FN0344-901.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1221,
+    "name": "Jordan 12 Retro GS",
+    "model": "Playoffs",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 6250,
+    "pricing": {
+      "23 MX": 6300,
+      "23.5 MX": 6250,
+      "24 MX": 6250,
+      "24.5 MX": 6250,
+      "25 MX": 6250
+    },
+    "image": "/images/CT8013-006.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1082,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Brotherhood",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5400,
+    "pricing": {
+      "25 MX": 5450,
+      "25.5 MX": 5450,
+      "26 MX": 5450,
+      "26.5 MX": 5850,
+      "27 MX": 5800,
+      "27.5 MX": 5800,
+      "28 MX": 5850,
+      "28.5 MX": 5800,
+      "29 MX": 5400,
+      "30 MX": 5450
+    },
+    "image": "/images/555088-706.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1204,
+    "name": "Jordan 11 Retro",
+    "model": "Gratitude",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6900,
+    "pricing": {
+      "25 MX": 6900,
+      "25.5 MX": 6950,
+      "26 MX": 6900,
+      "27 MX": 7350,
+      "27.5 MX": 7450,
+      "28 MX": 7350,
+      "28.5 MX": 7450,
+      "29 MX": 7000,
+      "30 MX": 6950
+    },
+    "image": "/images/CT8012-170.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1140,
+    "name": "Jordan 3 Retro",
+    "model": "Fear Pack",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6800,
+    "pricing": {
+      "25 MX": 6900,
+      "25.5 MX": 6800,
+      "26 MX": 6900,
+      "26.5 MX": 7400,
+      "27 MX": 7450,
+      "27.5 MX": 7500,
+      "28 MX": 7450,
+      "28.5 MX": 7450,
+      "29 MX": 6900,
+      "30 MX": 7000
+    },
+    "image": "/images/CT8532-080.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1068,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Lucky Green",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5800,
+    "pricing": {
+      "25 MX": 5850,
+      "25.5 MX": 5850,
+      "26 MX": 5850,
+      "26.5 MX": 6300,
+      "27 MX": 6300,
+      "27.5 MX": 6350,
+      "28 MX": 6200,
+      "28.5 MX": 6250,
+      "29 MX": 5800,
+      "30 MX": 5850
+    },
+    "image": "/images/DZ5485-031.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1113,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Zion Voodoo",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7450,
+    "pricing": {
+      "23 MX": 7450,
+      "23.5 MX": 7450,
+      "24 MX": 7450,
+      "24.5 MX": 7550,
+      "25 MX": 7450
+    },
+    "image": "/images/DZ7292-200.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1079,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Spider-Man",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5650,
+    "pricing": {
+      "23 MX": 5650,
+      "23.5 MX": 5650,
+      "24 MX": 5650,
+      "24.5 MX": 5700,
+      "25 MX": 5700
+    },
+    "image": "/images/DV1748-601.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1137,
+    "name": "Jordan 3 Retro GS",
+    "model": "Midnight Navy",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5450,
+    "pricing": {
+      "23 MX": 5450,
+      "23.5 MX": 5500,
+      "24 MX": 5450,
+      "24.5 MX": 5550,
+      "25 MX": 5450
+    },
+    "image": "/images/CT8532-140.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1021,
+    "name": "Jordan 4 Retro GS",
+    "model": "Infrared",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6050,
+    "pricing": {
+      "23 MX": 6150,
+      "24 MX": 6150,
+      "24.5 MX": 6050,
+      "25 MX": 6100
+    },
+    "image": "/images/DH6927-061.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1002,
+    "name": "Jordan 4 Retro",
+    "model": "Military Black",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 10350,
+    "pricing": {
+      "25 MX": 10350,
+      "25.5 MX": 10600,
+      "26 MX": 10350,
+      "26.5 MX": 11300,
+      "27 MX": 11400,
+      "27.5 MX": 11500,
+      "28 MX": 11300,
+      "29 MX": 10500,
+      "30 MX": 10550
+    },
+    "image": "/images/DH6927-111.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1031,
+    "name": "Jordan 4 Retro GS",
+    "model": "Craft Photon Dust",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6200,
+    "pricing": {
+      "23 MX": 6350,
+      "23.5 MX": 6250,
+      "24 MX": 6300,
+      "24.5 MX": 6200,
+      "25 MX": 6250
+    },
+    "image": "/images/DV3742-021.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1084,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Bordeaux",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6250,
+    "pricing": {
+      "25 MX": 6300,
+      "25.5 MX": 6300,
+      "26 MX": 6300,
+      "26.5 MX": 6750,
+      "27 MX": 6750,
+      "28 MX": 6700,
+      "28.5 MX": 6750,
+      "29 MX": 6250,
+      "30 MX": 6350
+    },
+    "image": "/images/555088-611.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1050,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Chicago Lost & Found",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 10400,
+    "pricing": {
+      "25 MX": 10400,
+      "25.5 MX": 10600,
+      "26 MX": 10450,
+      "26.5 MX": 11500,
+      "27 MX": 11600,
+      "27.5 MX": 11450,
+      "28.5 MX": 11550,
+      "29 MX": 10550,
+      "30 MX": 10400
+    },
+    "image": "/images/DZ5485-612.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1001,
+    "name": "Jordan 4 Retro GS",
+    "model": "Bred Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 6050,
+      "23.5 MX": 5950,
+      "24 MX": 6000,
+      "24.5 MX": 5900,
+      "25 MX": 5900
+    },
+    "image": "/images/FV5029-006.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1169,
+    "name": "Jordan 5 Retro GS",
+    "model": "Concord",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5500,
+    "pricing": {
+      "23 MX": 5500,
+      "23.5 MX": 5550,
+      "24 MX": 5500,
+      "24.5 MX": 5500
+    },
+    "image": "/images/DD0587-141.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1092,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Volt Gold",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5800,
+    "pricing": {
+      "25 MX": 5800,
+      "25.5 MX": 5900,
+      "26 MX": 5800,
+      "26.5 MX": 6250,
+      "27 MX": 6200,
+      "27.5 MX": 6350,
+      "28 MX": 6250,
+      "28.5 MX": 6300,
+      "29 MX": 5950,
+      "30 MX": 5850
+    },
+    "image": "/images/555088-118.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1217,
+    "name": "Jordan 11 Retro GS Low",
+    "model": "Yellow Snakeskin",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5650,
+      "23.5 MX": 5700,
+      "24 MX": 5600,
+      "24.5 MX": 5600,
+      "25 MX": 5600
+    },
+    "image": "/images/AH7860-107.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1039,
+    "name": "Jordan 4 Retro GS",
+    "model": "Taupe Haze",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8000,
+    "pricing": {
+      "23 MX": 8050,
+      "23.5 MX": 8000,
+      "24 MX": 8000,
+      "24.5 MX": 8050,
+      "25 MX": 8050
+    },
+    "image": "/images/DB0732-200.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1037,
+    "name": "Jordan 4 Retro GS",
+    "model": "Union Off Noir",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 12550,
+    "pricing": {
+      "23 MX": 12550,
+      "23.5 MX": 12650,
+      "24 MX": 12850,
+      "24.5 MX": 12800,
+      "25 MX": 12550
+    },
+    "image": "/images/DC9533-001.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1177,
+    "name": "Jordan 6 Retro GS",
+    "model": "Travis Scott British Khaki",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 8400,
+    "pricing": {
+      "23 MX": 8550,
+      "23.5 MX": 8400,
+      "24 MX": 8550,
+      "24.5 MX": 8500,
+      "25 MX": 8500
+    },
+    "image": "/images/DH0690-200.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1005,
+    "name": "Jordan 4 Retro GS",
+    "model": "SB Pine Green",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 9950,
+    "pricing": {
+      "23 MX": 10050,
+      "23.5 MX": 10150,
+      "24 MX": 10200,
+      "24.5 MX": 10000,
+      "25 MX": 9950
+    },
+    "image": "/images/DR5415-103.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1007,
+    "name": "Jordan 4 Retro GS",
+    "model": "Thunder (2023)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6200,
+    "pricing": {
+      "23 MX": 6350,
+      "23.5 MX": 6300,
+      "24 MX": 6200,
+      "24.5 MX": 6300,
+      "25 MX": 6250
+    },
+    "image": "/images/DH6927-017.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1150,
+    "name": "Jordan 3 Retro",
+    "model": "Cardinal Red",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 7250,
+    "pricing": {
+      "25 MX": 7400,
+      "25.5 MX": 7250,
+      "26 MX": 7350,
+      "26.5 MX": 7950,
+      "27 MX": 7950,
+      "27.5 MX": 7950,
+      "28 MX": 7800,
+      "28.5 MX": 7900,
+      "29 MX": 7300
+    },
+    "image": "/images/CT8532-126.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1147,
+    "name": "Jordan 3 Retro GS",
+    "model": "Craft Ivory",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5950,
+    "pricing": {
+      "23 MX": 5950,
+      "23.5 MX": 5950,
+      "24 MX": 5950,
+      "24.5 MX": 5950,
+      "25 MX": 6000
+    },
+    "image": "/images/FJ9479-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1167,
+    "name": "Jordan 5 Retro GS",
+    "model": "Green Bean",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5150,
+    "pricing": {
+      "23 MX": 5200,
+      "23.5 MX": 5150,
+      "24 MX": 5150,
+      "24.5 MX": 5250,
+      "25 MX": 5150
+    },
+    "image": "/images/DM9014-003.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1111,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Starfish",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5300,
+    "pricing": {
+      "23 MX": 5300,
+      "23.5 MX": 5300,
+      "24 MX": 5350,
+      "24.5 MX": 5300,
+      "25 MX": 5350
+    },
+    "image": "/images/CZ0790-801.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1230,
+    "name": "Jordan 13 Retro",
+    "model": "Wheat",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 6500,
+    "pricing": {
+      "25 MX": 6550,
+      "25.5 MX": 6550,
+      "26 MX": 6500,
+      "26.5 MX": 7000,
+      "27 MX": 7000,
+      "27.5 MX": 7000,
+      "28 MX": 6900,
+      "28.5 MX": 7050,
+      "29 MX": 6500,
+      "30 MX": 6500
+    },
+    "image": "/images/414571-171.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1017,
+    "name": "Jordan 4 Retro GS",
+    "model": "White Oreo",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8350,
+    "pricing": {
+      "23 MX": 8400,
+      "23.5 MX": 8400,
+      "24 MX": 8500,
+      "24.5 MX": 8550,
+      "25 MX": 8350
+    },
+    "image": "/images/CT8527-100.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1148,
+    "name": "Jordan 3 Retro",
+    "model": "Desert Elephant",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6450,
+    "pricing": {
+      "25 MX": 6550,
+      "25.5 MX": 6450,
+      "26 MX": 6500,
+      "26.5 MX": 6900,
+      "27 MX": 6950,
+      "27.5 MX": 7050,
+      "28 MX": 6950,
+      "28.5 MX": 7000,
+      "29 MX": 6550,
+      "30 MX": 6550
+    },
+    "image": "/images/CT8532-008.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1160,
+    "name": "Jordan 5 Retro",
+    "model": "UNC",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7150,
+      "25.5 MX": 7150,
+      "26 MX": 7200,
+      "26.5 MX": 7700,
+      "27 MX": 7700,
+      "27.5 MX": 7650,
+      "28 MX": 7600,
+      "28.5 MX": 7700,
+      "29 MX": 7100,
+      "30 MX": 7050
+    },
+    "image": "/images/DV4982-400.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1034,
+    "name": "Jordan 4 Retro",
+    "model": "Union Guava Ice",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 18050,
+    "pricing": {
+      "25 MX": 18250,
+      "25.5 MX": 18100,
+      "26.5 MX": 20500,
+      "27 MX": 20350,
+      "27.5 MX": 19950,
+      "28.5 MX": 20150,
+      "29 MX": 18050,
+      "30 MX": 18200
+    },
+    "image": "/images/DC9533-800.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1202,
+    "name": "Jordan 11 Retro",
+    "model": "Cherry",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 7550,
+    "pricing": {
+      "25 MX": 7650,
+      "25.5 MX": 7650,
+      "26 MX": 7550,
+      "26.5 MX": 8250,
+      "27 MX": 8150,
+      "27.5 MX": 8050,
+      "28 MX": 8250,
+      "28.5 MX": 8050,
+      "29 MX": 7550,
+      "30 MX": 7600
+    },
+    "image": "/images/CT8012-116.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1076,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Washed Black",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6450,
+    "pricing": {
+      "25 MX": 6450,
+      "25.5 MX": 6450,
+      "26 MX": 6500,
+      "26.5 MX": 6900,
+      "27 MX": 6900,
+      "27.5 MX": 6900,
+      "28 MX": 7000,
+      "28.5 MX": 6900,
+      "29 MX": 6450,
+      "30 MX": 6550
+    },
+    "image": "/images/DZ5485-051.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1152,
+    "name": "Jordan 3 Retro",
+    "model": "Pine Green",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 7700,
+    "pricing": {
+      "25 MX": 7700,
+      "25.5 MX": 7800,
+      "26 MX": 7800,
+      "26.5 MX": 8300,
+      "27 MX": 8350,
+      "27.5 MX": 8450,
+      "28 MX": 8350,
+      "28.5 MX": 8350,
+      "30 MX": 7700
+    },
+    "image": "/images/CT8532-030.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1141,
+    "name": "Jordan 3 Retro GS",
+    "model": "Fear Pack",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5750,
+      "24 MX": 5850,
+      "24.5 MX": 5800,
+      "25 MX": 5800
+    },
+    "image": "/images/CT8532-080.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1054,
+    "name": "Jordan 1 Retro High OG",
+    "model": "University Blue",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 9100,
+    "pricing": {
+      "25 MX": 9200,
+      "25.5 MX": 9150,
+      "26 MX": 9100,
+      "26.5 MX": 10150,
+      "27 MX": 10200,
+      "27.5 MX": 10000,
+      "28.5 MX": 9950,
+      "29 MX": 9150,
+      "30 MX": 9100
+    },
+    "image": "/images/555088-134.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1091,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Light Smoke Grey",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6400,
+    "pricing": {
+      "23 MX": 6500,
+      "23.5 MX": 6500,
+      "24 MX": 6500,
+      "24.5 MX": 6400,
+      "25 MX": 6450
+    },
+    "image": "/images/555088-126.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1108,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Black Toe",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5450,
+    "pricing": {
+      "25 MX": 5500,
+      "25.5 MX": 5450,
+      "26 MX": 5500,
+      "26.5 MX": 5800,
+      "27.5 MX": 5850,
+      "28.5 MX": 5750,
+      "29 MX": 5500,
+      "30 MX": 5450
+    },
+    "image": "/images/CZ0790-106.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1059,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Taxi",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5300,
+    "pricing": {
+      "23 MX": 5400,
+      "23.5 MX": 5300,
+      "24 MX": 5300,
+      "24.5 MX": 5300,
+      "25 MX": 5350
+    },
+    "image": "/images/555088-711.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1159,
+    "name": "Jordan 3 Retro GS",
+    "model": "Palomino",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5800,
+      "23.5 MX": 5850,
+      "24 MX": 5800,
+      "24.5 MX": 5750,
+      "25 MX": 5800
+    },
+    "image": "/images/CT8532-102.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1178,
+    "name": "Jordan 6 Retro",
+    "model": "Infrared",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 8250,
+    "pricing": {
+      "25.5 MX": 8450,
+      "26 MX": 8250,
+      "26.5 MX": 9100,
+      "27 MX": 9000,
+      "27.5 MX": 9150,
+      "28 MX": 9200,
+      "28.5 MX": 9150,
+      "29 MX": 8450,
+      "30 MX": 8300
+    },
+    "image": "/images/384664-060.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1196,
+    "name": "Jordan 11 Retro",
+    "model": "Space Jam",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 11200,
+    "pricing": {
+      "25 MX": 11300,
+      "25.5 MX": 11500,
+      "26 MX": 11300,
+      "26.5 MX": 12200,
+      "27 MX": 12500,
+      "27.5 MX": 12550,
+      "28 MX": 12400,
+      "28.5 MX": 12300,
+      "29 MX": 11300,
+      "30 MX": 11200
+    },
+    "image": "/images/378037-003.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1168,
+    "name": "Jordan 5 Retro",
+    "model": "Concord",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 6400,
+    "pricing": {
+      "25 MX": 6550,
+      "25.5 MX": 6550,
+      "26 MX": 6450,
+      "26.5 MX": 7000,
+      "27 MX": 7050,
+      "27.5 MX": 7000,
+      "28 MX": 6900,
+      "28.5 MX": 6950,
+      "29 MX": 6400,
+      "30 MX": 6500
+    },
+    "image": "/images/DD0587-141.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1209,
+    "name": "Jordan 11 Retro GS",
+    "model": "Neapolitan",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5450,
+    "pricing": {
+      "23 MX": 5500,
+      "23.5 MX": 5450,
+      "24 MX": 5500,
+      "24.5 MX": 5500
+    },
+    "image": "/images/AR0715-101.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1118,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Year of the Dragon",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 10400,
+    "pricing": {
+      "25 MX": 10400,
+      "25.5 MX": 10600,
+      "26 MX": 10400,
+      "26.5 MX": 11450,
+      "27 MX": 11400,
+      "27.5 MX": 11300,
+      "28 MX": 11550,
+      "28.5 MX": 11300,
+      "29 MX": 10450,
+      "30 MX": 10600
+    },
+    "image": "/images/FN3727-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1174,
+    "name": "Jordan 5 Retro",
+    "model": "Moonlight",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 7250,
+    "pricing": {
+      "25 MX": 7250,
+      "25.5 MX": 7400,
+      "26 MX": 7350,
+      "26.5 MX": 7900,
+      "27.5 MX": 7850,
+      "28 MX": 7900,
+      "28.5 MX": 7850,
+      "29 MX": 7400,
+      "30 MX": 7350
+    },
+    "image": "/images/CT4838-011.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1006,
+    "name": "Jordan 4 Retro",
+    "model": "Thunder (2023)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7450,
+    "pricing": {
+      "25 MX": 7550,
+      "25.5 MX": 7600,
+      "26 MX": 7500,
+      "26.5 MX": 8100,
+      "27 MX": 8150,
+      "27.5 MX": 8200,
+      "28 MX": 8200,
+      "28.5 MX": 8200,
+      "29 MX": 7500,
+      "30 MX": 7450
+    },
+    "image": "/images/DH6927-017.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1070,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Green Glow",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5600,
+    "pricing": {
+      "25 MX": 5650,
+      "25.5 MX": 5650,
+      "26 MX": 5650,
+      "26.5 MX": 6000,
+      "27 MX": 6050,
+      "27.5 MX": 5950,
+      "28 MX": 6050,
+      "28.5 MX": 6050,
+      "29 MX": 5600,
+      "30 MX": 5650
+    },
+    "image": "/images/DZ5485-130.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1231,
+    "name": "Jordan 13 Retro GS",
+    "model": "Wheat",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 5450,
+    "pricing": {
+      "23 MX": 5550,
+      "23.5 MX": 5550,
+      "24 MX": 5450,
+      "24.5 MX": 5550,
+      "25 MX": 5500
+    },
+    "image": "/images/414571-171.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1107,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Travis Scott Fragment",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 24250,
+    "pricing": {
+      "23 MX": 24450,
+      "23.5 MX": 24250,
+      "24 MX": 24950,
+      "24.5 MX": 24750,
+      "25 MX": 24250
+    },
+    "image": "/images/DM7866-140.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1029,
+    "name": "Jordan 4 Retro GS",
+    "model": "Canvas Black",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7000,
+    "pricing": {
+      "23 MX": 7000,
+      "23.5 MX": 7000,
+      "24 MX": 7100,
+      "24.5 MX": 7000,
+      "25 MX": 7000
+    },
+    "image": "/images/DH7138-006.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1030,
+    "name": "Jordan 4 Retro",
+    "model": "Craft Photon Dust",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7500,
+    "pricing": {
+      "25 MX": 7500,
+      "25.5 MX": 7550,
+      "26 MX": 7550,
+      "26.5 MX": 8100,
+      "27 MX": 8200,
+      "27.5 MX": 8250,
+      "28 MX": 8250,
+      "28.5 MX": 8050,
+      "29 MX": 7550,
+      "30 MX": 7500
+    },
+    "image": "/images/DV3742-021.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1000,
+    "name": "Jordan 4 Retro",
+    "model": "Bred Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7100,
+      "25.5 MX": 7050,
+      "26 MX": 7200,
+      "26.5 MX": 7700,
+      "27 MX": 7700,
+      "27.5 MX": 7750,
+      "28 MX": 7650,
+      "28.5 MX": 7600,
+      "29 MX": 7150,
+      "30 MX": 7150
+    },
+    "image": "/images/FV5029-006.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1062,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Royal Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5400,
+    "pricing": {
+      "25 MX": 5450,
+      "25.5 MX": 5450,
+      "26.5 MX": 5800,
+      "27 MX": 5800,
+      "27.5 MX": 5750,
+      "28 MX": 5750,
+      "28.5 MX": 5850,
+      "29 MX": 5450,
+      "30 MX": 5400
+    },
+    "image": "/images/DZ5485-042.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1165,
+    "name": "Jordan 5 Retro GS",
+    "model": "Raging Bull",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5650,
+      "23.5 MX": 5700,
+      "24 MX": 5700,
+      "24.5 MX": 5650,
+      "25 MX": 5600
+    },
+    "image": "/images/DD0587-600.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1130,
+    "name": "Jordan 3 Retro",
+    "model": "White Cement Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 8050,
+    "pricing": {
+      "25 MX": 8100,
+      "25.5 MX": 8100,
+      "26 MX": 8100,
+      "26.5 MX": 8950,
+      "27 MX": 8800,
+      "27.5 MX": 8900,
+      "28 MX": 8750,
+      "28.5 MX": 8850,
+      "29 MX": 8050,
+      "30 MX": 8200
+    },
+    "image": "/images/DN3707-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1093,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Volt Gold",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5000,
+    "pricing": {
+      "23 MX": 5050,
+      "24.5 MX": 5000,
+      "25 MX": 5000
+    },
+    "image": "/images/555088-118.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1146,
+    "name": "Jordan 3 Retro",
+    "model": "Craft Ivory",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7200,
+      "25.5 MX": 7050,
+      "26 MX": 7200,
+      "26.5 MX": 7700,
+      "27 MX": 7750,
+      "27.5 MX": 7650,
+      "28 MX": 7700,
+      "28.5 MX": 7650,
+      "29 MX": 7050,
+      "30 MX": 7150
+    },
+    "image": "/images/FJ9479-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1180,
+    "name": "Jordan 6 Retro",
+    "model": "Travis Scott Olive",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 12400,
+    "pricing": {
+      "25 MX": 12700,
+      "25.5 MX": 12500,
+      "26 MX": 12400,
+      "26.5 MX": 13700,
+      "27 MX": 13800,
+      "27.5 MX": 13550,
+      "28 MX": 14000,
+      "28.5 MX": 13750,
+      "30 MX": 12700
+    },
+    "image": "/images/CN1084-200.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1199,
+    "name": "Jordan 11 Retro GS",
+    "model": "Bred",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 8400,
+    "pricing": {
+      "23 MX": 8600,
+      "23.5 MX": 8550,
+      "24 MX": 8600,
+      "24.5 MX": 8400
+    },
+    "image": "/images/378037-061.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1041,
+    "name": "Jordan 4 Retro GS",
+    "model": "Tour Yellow",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7150,
+    "pricing": {
+      "23 MX": 7200,
+      "23.5 MX": 7300,
+      "24 MX": 7150,
+      "24.5 MX": 7250,
+      "25 MX": 7250
+    },
+    "image": "/images/CT8527-700.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1096,
+    "name": "Jordan 1 Retro High OG",
+    "model": "J Balvin",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 9700,
+    "pricing": {
+      "25 MX": 9750,
+      "25.5 MX": 9800,
+      "26 MX": 9850,
+      "26.5 MX": 10850,
+      "27 MX": 10700,
+      "27.5 MX": 10850,
+      "28 MX": 10600,
+      "28.5 MX": 10700,
+      "29 MX": 9700,
+      "30 MX": 9900
+    },
+    "image": "/images/DC3481-900.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1036,
+    "name": "Jordan 4 Retro",
+    "model": "Union Off Noir",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 15900,
+    "pricing": {
+      "25 MX": 16200,
+      "25.5 MX": 16400,
+      "26 MX": 16400,
+      "26.5 MX": 17600,
+      "27.5 MX": 17700,
+      "28 MX": 17900,
+      "28.5 MX": 17800,
+      "30 MX": 15900
+    },
+    "image": "/images/DC9533-001.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1099,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Court Purple",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7150,
+    "pricing": {
+      "23 MX": 7200,
+      "23.5 MX": 7200,
+      "24 MX": 7300,
+      "24.5 MX": 7250,
+      "25 MX": 7150
+    },
+    "image": "/images/555088-500.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1098,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Court Purple",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 8700,
+    "pricing": {
+      "25.5 MX": 8750,
+      "26 MX": 8850,
+      "26.5 MX": 9500,
+      "27 MX": 9600,
+      "27.5 MX": 9450,
+      "28 MX": 9500,
+      "28.5 MX": 9650,
+      "29 MX": 8700,
+      "30 MX": 8800
+    },
+    "image": "/images/555088-500.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1208,
+    "name": "Jordan 11 Retro",
+    "model": "Neapolitan",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6450,
+    "pricing": {
+      "25.5 MX": 6450,
+      "26 MX": 6500,
+      "26.5 MX": 6900,
+      "27 MX": 6900,
+      "27.5 MX": 7000,
+      "28 MX": 7000,
+      "28.5 MX": 7050,
+      "29 MX": 6450,
+      "30 MX": 6500
+    },
+    "image": "/images/AR0715-101.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1042,
+    "name": "Jordan 4 Retro",
+    "model": "Shimmer",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 9150,
+    "pricing": {
+      "25 MX": 9250,
+      "25.5 MX": 9150,
+      "26.5 MX": 10150,
+      "27 MX": 10150,
+      "27.5 MX": 9950,
+      "28 MX": 10000,
+      "28.5 MX": 9950,
+      "29 MX": 9350,
+      "30 MX": 9300
+    },
+    "image": "/images/DJ0675-200.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1102,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Travis Scott Olive",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 19050,
+    "pricing": {
+      "25 MX": 19600,
+      "25.5 MX": 19450,
+      "26 MX": 19400,
+      "27 MX": 21150,
+      "27.5 MX": 21600,
+      "28 MX": 21550,
+      "28.5 MX": 21550,
+      "29 MX": 19500,
+      "30 MX": 19050
+    },
+    "image": "/images/DZ4137-106.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1069,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Lucky Green",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5000,
+    "pricing": {
+      "23 MX": 5000,
+      "23.5 MX": 5000,
+      "24 MX": 5000,
+      "24.5 MX": 5050,
+      "25 MX": 5000
+    },
+    "image": "/images/DZ5485-031.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1192,
+    "name": "Jordan 6 Retro",
+    "model": "Toro Bravo",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 7450,
+    "pricing": {
+      "25 MX": 7600,
+      "25.5 MX": 7500,
+      "26 MX": 7450,
+      "27 MX": 8050,
+      "27.5 MX": 8100,
+      "28 MX": 8200,
+      "28.5 MX": 8050,
+      "30 MX": 7600
+    },
+    "image": "/images/CT8529-600.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1128,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Trophy Room",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 12850,
+    "pricing": {
+      "25 MX": 12950,
+      "25.5 MX": 13150,
+      "26 MX": 12850,
+      "26.5 MX": 14200,
+      "27 MX": 14250,
+      "27.5 MX": 14050,
+      "28 MX": 14100,
+      "28.5 MX": 14200,
+      "29 MX": 13100,
+      "30 MX": 13200
+    },
+    "image": "/images/FN0432-063.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1176,
+    "name": "Jordan 6 Retro",
+    "model": "Travis Scott British Khaki",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 10450,
+    "pricing": {
+      "25 MX": 10600,
+      "25.5 MX": 10500,
+      "26 MX": 10500,
+      "26.5 MX": 11500,
+      "27 MX": 11450,
+      "27.5 MX": 11300,
+      "28 MX": 11550,
+      "28.5 MX": 11500,
+      "29 MX": 10450,
+      "30 MX": 10550
+    },
+    "image": "/images/DH0690-200.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1038,
+    "name": "Jordan 4 Retro",
+    "model": "Taupe Haze",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 9750,
+    "pricing": {
+      "25 MX": 9950,
+      "25.5 MX": 9750,
+      "26 MX": 9800,
+      "26.5 MX": 10650,
+      "27 MX": 10600,
+      "27.5 MX": 10750,
+      "28 MX": 10800,
+      "28.5 MX": 10750,
+      "29 MX": 9950,
+      "30 MX": 9800
+    },
+    "image": "/images/DB0732-200.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1229,
+    "name": "Jordan 13 Retro GS",
+    "model": "Chicago",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 7150,
+    "pricing": {
+      "23 MX": 7150,
+      "23.5 MX": 7150,
+      "24.5 MX": 7250,
+      "25 MX": 7250
+    },
+    "image": "/images/414571-122.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1171,
+    "name": "Jordan 5 Retro GS",
+    "model": "Aqua",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5650,
+      "23.5 MX": 5600,
+      "24 MX": 5700,
+      "24.5 MX": 5650,
+      "25 MX": 5650
+    },
+    "image": "/images/DD0587-047.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1064,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Palomino",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6900,
+    "pricing": {
+      "25 MX": 6950,
+      "25.5 MX": 6950,
+      "26 MX": 6950,
+      "26.5 MX": 7400,
+      "27 MX": 7500,
+      "27.5 MX": 7450,
+      "28 MX": 7450,
+      "28.5 MX": 7400,
+      "29 MX": 6900
+    },
+    "image": "/images/DZ5485-020.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1216,
+    "name": "Jordan 11 Retro Low",
+    "model": "Yellow Snakeskin",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6600,
+    "pricing": {
+      "25 MX": 6650,
+      "25.5 MX": 6600,
+      "26 MX": 6600,
+      "26.5 MX": 7200,
+      "27 MX": 7150,
+      "27.5 MX": 7100,
+      "28 MX": 7100,
+      "28.5 MX": 7150,
+      "29 MX": 6700,
+      "30 MX": 6800
+    },
+    "image": "/images/AH7860-107.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1018,
+    "name": "Jordan 4 Retro",
     "model": "University Blue",
     "brand": "Jordan",
     "category": "Retro 4",
-    "price": 10400,
+    "price": 9950,
+    "pricing": {
+      "25 MX": 10200,
+      "25.5 MX": 9950,
+      "26 MX": 10100,
+      "26.5 MX": 11150,
+      "27.5 MX": 10950,
+      "28 MX": 11100,
+      "28.5 MX": 10800,
+      "29 MX": 10100,
+      "30 MX": 10200
+    },
+    "image": "/images/CT8527-400.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1045,
+    "name": "Jordan 4 Retro GS",
+    "model": "Canyon Purple",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5750,
+      "23.5 MX": 5750,
+      "24 MX": 5850,
+      "24.5 MX": 5750,
+      "25 MX": 5750
+    },
+    "image": "/images/AQ9129-500.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1055,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "University Blue",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7450,
+    "pricing": {
+      "23 MX": 7600,
+      "23.5 MX": 7600,
+      "24 MX": 7550,
+      "24.5 MX": 7500,
+      "25 MX": 7450
+    },
+    "image": "/images/555088-134.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1063,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Royal Reimagined",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4700,
+    "pricing": {
+      "23 MX": 4700,
+      "24 MX": 4750,
+      "24.5 MX": 4700,
+      "25 MX": 4700
+    },
+    "image": "/images/DZ5485-042.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1106,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Travis Scott Fragment",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 31400,
+    "pricing": {
+      "25 MX": 31400,
+      "25.5 MX": 31600,
+      "26.5 MX": 34900,
+      "27 MX": 35150,
+      "27.5 MX": 35050,
+      "28 MX": 35400,
+      "28.5 MX": 35250
+    },
+    "image": "/images/DM7866-140.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1154,
+    "name": "Jordan 3 Retro",
+    "model": "Racer Blue",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 7450,
+    "pricing": {
+      "25 MX": 7500,
+      "25.5 MX": 7650,
+      "26 MX": 7550,
+      "26.5 MX": 8100,
+      "27 MX": 8050,
+      "27.5 MX": 8050,
+      "28 MX": 8150,
+      "28.5 MX": 8150,
+      "29 MX": 7550,
+      "30 MX": 7450
+    },
+    "image": "/images/CT8532-145.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1158,
+    "name": "Jordan 3 Retro",
+    "model": "Palomino",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6850,
+    "pricing": {
+      "25 MX": 6900,
+      "25.5 MX": 6850,
+      "26 MX": 6850,
+      "26.5 MX": 7350,
+      "27 MX": 7450,
+      "27.5 MX": 7400,
+      "28 MX": 7500,
+      "28.5 MX": 7450,
+      "29 MX": 6850,
+      "30 MX": 6950
+    },
+    "image": "/images/CT8532-102.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1046,
+    "name": "Jordan 4 Retro",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 9750,
+    "pricing": {
+      "25 MX": 10000,
+      "25.5 MX": 9900,
+      "26 MX": 9750,
+      "26.5 MX": 10700,
+      "27 MX": 10800,
+      "27.5 MX": 10650,
+      "28 MX": 10600,
+      "28.5 MX": 10750,
+      "29 MX": 9850,
+      "30 MX": 9750
+    },
+    "image": "/images/308497-007.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1094,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Bio Hack",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7900,
+    "pricing": {
+      "25 MX": 7900,
+      "25.5 MX": 8000,
+      "26 MX": 8050,
+      "26.5 MX": 8550,
+      "27.5 MX": 8700,
+      "28 MX": 8750,
+      "28.5 MX": 8500,
+      "29 MX": 7950,
+      "30 MX": 7900
+    },
+    "image": "/images/555088-201.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1073,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Satin Bred",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4650,
+    "pricing": {
+      "23 MX": 4750,
+      "23.5 MX": 4650,
+      "24 MX": 4700,
+      "24.5 MX": 4750,
+      "25 MX": 4700
+    },
+    "image": "/images/FD4810-061.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1088,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Electro Orange",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5800,
+    "pricing": {
+      "25 MX": 5800,
+      "25.5 MX": 5850,
+      "26 MX": 5850,
+      "26.5 MX": 6250,
+      "27 MX": 6250,
+      "27.5 MX": 6200,
+      "28 MX": 6300,
+      "28.5 MX": 6200,
+      "29 MX": 5900
+    },
+    "image": "/images/555088-180.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1161,
+    "name": "Jordan 5 Retro GS",
+    "model": "UNC",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5950,
+      "23.5 MX": 6000,
+      "24 MX": 5950,
+      "24.5 MX": 5900,
+      "25 MX": 5950
+    },
+    "image": "/images/DV4982-400.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1129,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Trophy Room",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 10250,
     "pricing": {
       "23 MX": 10550,
-      "23.5 MX": 10400,
-      "24 MX": 10400,
-      "24.5 MX": 10650,
-      "25 MX": 10400
+      "23.5 MX": 10350,
+      "24 MX": 10250,
+      "24.5 MX": 10500,
+      "25 MX": 10250
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-University-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/FN0432-063.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1103,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Travis Scott Olive",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 14950,
+    "pricing": {
+      "23 MX": 15200,
+      "24 MX": 15150,
+      "24.5 MX": 14950,
+      "25 MX": 15250
+    },
+    "image": "/images/DZ4137-106.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1057,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Patent Bred",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5600,
+    "pricing": {
+      "23 MX": 5650,
+      "23.5 MX": 5700,
+      "24 MX": 5700,
+      "24.5 MX": 5600,
+      "25 MX": 5700
+    },
+    "image": "/images/555088-063.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1213,
+    "name": "Jordan 11 Retro GS Low",
+    "model": "Legend Blue",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5750,
+    "pricing": {
+      "23 MX": 5800,
+      "23.5 MX": 5750,
+      "24 MX": 5750,
+      "24.5 MX": 5800,
+      "25 MX": 5800
+    },
+    "image": "/images/AV2187-117.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1166,
+    "name": "Jordan 5 Retro",
+    "model": "Green Bean",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 6050,
+    "pricing": {
+      "25 MX": 6050,
+      "25.5 MX": 6050,
+      "26 MX": 6100,
+      "26.5 MX": 6500,
+      "27 MX": 6550,
+      "27.5 MX": 6500,
+      "28 MX": 6450,
+      "28.5 MX": 6500,
+      "29 MX": 6150,
+      "30 MX": 6050
+    },
+    "image": "/images/DM9014-003.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1227,
+    "name": "Jordan 13 Retro GS",
+    "model": "Flint",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 6600,
+    "pricing": {
+      "23 MX": 6650,
+      "23.5 MX": 6600,
+      "24 MX": 6650,
+      "24.5 MX": 6600,
+      "25 MX": 6650
+    },
+    "image": "/images/414571-404.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1212,
+    "name": "Jordan 11 Retro Low",
+    "model": "Legend Blue",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6800,
+    "pricing": {
+      "25 MX": 6800,
+      "25.5 MX": 7000,
+      "26.5 MX": 7550,
+      "27 MX": 7450,
+      "27.5 MX": 7450,
+      "28 MX": 7350,
+      "28.5 MX": 7400,
+      "29 MX": 6950,
+      "30 MX": 6850
+    },
+    "image": "/images/AV2187-117.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1075,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "White Cement",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5150,
+    "pricing": {
+      "23 MX": 5200,
+      "23.5 MX": 5150,
+      "24 MX": 5150,
+      "24.5 MX": 5150,
+      "25 MX": 5200
+    },
+    "image": "/images/DZ5485-052.jpg",
     "badge": "GS (JUNIOR)"
   },
   {
     "id": 1048,
     "name": "Jordan 4 Retro",
-    "model": "SB Pine Green",
+    "model": "Fire Red (2020)",
     "brand": "Jordan",
     "category": "Retro 4",
-    "price": 17950,
+    "price": 8750,
     "pricing": {
-      "26 MX": 17950,
-      "26.5 MX": 19850,
-      "27.5 MX": 20400,
-      "28 MX": 19900,
-      "28.5 MX": 19900,
-      "29 MX": 18450,
-      "30 MX": 18350
+      "25 MX": 8850,
+      "25.5 MX": 8750,
+      "26 MX": 8900,
+      "26.5 MX": 9500,
+      "27 MX": 9550,
+      "27.5 MX": 9500,
+      "28 MX": 9700,
+      "28.5 MX": 9650,
+      "29 MX": 8800,
+      "30 MX": 8750
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-SB-Pine-Green-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/DC7770-160.jpg",
     "badge": "MEN'S"
   },
   {
-    "id": 1078,
+    "id": 1081,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Heritage",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4500,
+    "pricing": {
+      "23 MX": 4500,
+      "23.5 MX": 4500,
+      "24 MX": 4550,
+      "24.5 MX": 4550,
+      "25 MX": 4600
+    },
+    "image": "/images/555088-161.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1184,
     "name": "Jordan 6 Retro",
-    "model": "Infrared (2019)",
+    "model": "Midnight Navy",
     "brand": "Jordan",
     "category": "Retro 6",
-    "price": 10550,
+    "price": 6400,
     "pricing": {
-      "25.5 MX": 10550,
-      "27 MX": 11600,
-      "27.5 MX": 11800,
-      "28 MX": 11550,
-      "29 MX": 10600
+      "25 MX": 6500,
+      "25.5 MX": 6450,
+      "26 MX": 6500,
+      "26.5 MX": 6900,
+      "27 MX": 6900,
+      "27.5 MX": 6900,
+      "28 MX": 6900,
+      "28.5 MX": 6950,
+      "29 MX": 6550,
+      "30 MX": 6400
     },
-    "image": "https://images.stockx.com/images/Air-Jordan-6-Retro-Black-Infrared-2019-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color",
+    "image": "/images/CT8529-141.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1061,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Shadow 2.0",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6550,
+    "pricing": {
+      "23 MX": 6650,
+      "23.5 MX": 6550,
+      "24 MX": 6600,
+      "24.5 MX": 6600,
+      "25 MX": 6600
+    },
+    "image": "/images/555088-035.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1193,
+    "name": "Jordan 6 Retro GS",
+    "model": "Toro Bravo",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 6250,
+    "pricing": {
+      "23 MX": 6250,
+      "23.5 MX": 6250,
+      "24 MX": 6300,
+      "24.5 MX": 6300,
+      "25 MX": 6350
+    },
+    "image": "/images/CT8529-600.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1010,
+    "name": "Jordan 4 Retro",
+    "model": "Midnight Navy",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8500,
+    "pricing": {
+      "25 MX": 8600,
+      "25.5 MX": 8550,
+      "26 MX": 8650,
+      "26.5 MX": 9400,
+      "27 MX": 9350,
+      "27.5 MX": 9200,
+      "28 MX": 9450,
+      "28.5 MX": 9400,
+      "29 MX": 8600,
+      "30 MX": 8500
+    },
+    "image": "/images/DH6927-140.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1214,
+    "name": "Jordan 11 Retro Low",
+    "model": "72-10",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7050,
+      "25.5 MX": 7100,
+      "26 MX": 7100,
+      "26.5 MX": 7750,
+      "27 MX": 7600,
+      "27.5 MX": 7700,
+      "28 MX": 7750,
+      "28.5 MX": 7650,
+      "29 MX": 7150,
+      "30 MX": 7050
+    },
+    "image": "/images/AV2187-001.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1188,
+    "name": "Jordan 6 Retro",
+    "model": "UNC Home",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7050,
+      "25.5 MX": 7100,
+      "26 MX": 7150,
+      "26.5 MX": 7750,
+      "28 MX": 7650,
+      "28.5 MX": 7700,
+      "29 MX": 7150,
+      "30 MX": 7150
+    },
+    "image": "/images/CT8529-410.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1085,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Bordeaux",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5300,
+    "pricing": {
+      "23 MX": 5350,
+      "23.5 MX": 5300,
+      "24 MX": 5300,
+      "24.5 MX": 5350,
+      "25 MX": 5350
+    },
+    "image": "/images/555088-611.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1190,
+    "name": "Jordan 6 Retro",
+    "model": "Georgetown",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 6900,
+    "pricing": {
+      "25 MX": 6900,
+      "26.5 MX": 7400,
+      "27 MX": 7350,
+      "27.5 MX": 7450,
+      "28 MX": 7500,
+      "28.5 MX": 7450,
+      "29 MX": 6900,
+      "30 MX": 6950
+    },
+    "image": "/images/CT8529-012.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1121,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Powder Blue",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5150,
+    "pricing": {
+      "23 MX": 5200,
+      "23.5 MX": 5200,
+      "24 MX": 5250,
+      "24.5 MX": 5150,
+      "25 MX": 5150
+    },
+    "image": "/images/CZ0790-104.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1024,
+    "name": "Jordan 4 Retro",
+    "model": "Frozen Moments",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8350,
+    "pricing": {
+      "25 MX": 8400,
+      "25.5 MX": 8350,
+      "26 MX": 8350,
+      "26.5 MX": 9100,
+      "27 MX": 8950,
+      "27.5 MX": 9100,
+      "28 MX": 9000,
+      "28.5 MX": 9000,
+      "29 MX": 8450,
+      "30 MX": 8450
+    },
+    "image": "/images/AQ9129-001.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1123,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Mystic Navy",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4650,
+    "pricing": {
+      "23 MX": 4700,
+      "23.5 MX": 4750,
+      "24 MX": 4650,
+      "24.5 MX": 4750,
+      "25 MX": 4700
+    },
+    "image": "/images/CZ0790-041.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1203,
+    "name": "Jordan 11 Retro GS",
+    "model": "Cherry",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6250,
+    "pricing": {
+      "23 MX": 6350,
+      "23.5 MX": 6250,
+      "24 MX": 6300,
+      "24.5 MX": 6350,
+      "25 MX": 6350
+    },
+    "image": "/images/CT8012-116.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1025,
+    "name": "Jordan 4 Retro GS",
+    "model": "Frozen Moments",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6850,
+    "pricing": {
+      "23 MX": 6900,
+      "23.5 MX": 6950,
+      "24 MX": 6850,
+      "24.5 MX": 6900
+    },
+    "image": "/images/AQ9129-001.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1101,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Travis Scott Reverse Mocha",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 18800,
+    "pricing": {
+      "23 MX": 18800,
+      "23.5 MX": 18950,
+      "24 MX": 19200,
+      "24.5 MX": 19200,
+      "25 MX": 19050
+    },
+    "image": "/images/DM7866-162.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1155,
+    "name": "Jordan 3 Retro GS",
+    "model": "Racer Blue",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6250,
+    "pricing": {
+      "23 MX": 6300,
+      "23.5 MX": 6350,
+      "24 MX": 6250,
+      "24.5 MX": 6300,
+      "25 MX": 6250
+    },
+    "image": "/images/CT8532-145.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1144,
+    "name": "Jordan 3 Retro",
+    "model": "Wizards",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6600,
+    "pricing": {
+      "25 MX": 6600,
+      "25.5 MX": 6700,
+      "26 MX": 6800,
+      "26.5 MX": 7300,
+      "27 MX": 7250,
+      "27.5 MX": 7100,
+      "28 MX": 7150,
+      "28.5 MX": 7150,
+      "29 MX": 6750,
+      "30 MX": 6700
+    },
+    "image": "/images/CT8532-148.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1226,
+    "name": "Jordan 13 Retro",
+    "model": "Flint",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 7900,
+    "pricing": {
+      "25 MX": 7900,
+      "25.5 MX": 7900,
+      "26 MX": 8000,
+      "26.5 MX": 8700,
+      "27 MX": 8600,
+      "27.5 MX": 8700,
+      "28 MX": 8750,
+      "28.5 MX": 8550,
+      "29 MX": 7900,
+      "30 MX": 7950
+    },
+    "image": "/images/414571-404.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1157,
+    "name": "Jordan 3 Retro GS",
+    "model": "Patchwork",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5150,
+    "pricing": {
+      "23 MX": 5200,
+      "23.5 MX": 5150,
+      "24 MX": 5200,
+      "24.5 MX": 5200
+    },
+    "image": "/images/DO1830-200.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1060,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Shadow 2.0",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7900,
+    "pricing": {
+      "25 MX": 7950,
+      "25.5 MX": 7900,
+      "26 MX": 8000,
+      "26.5 MX": 8650,
+      "27 MX": 8600,
+      "27.5 MX": 8750,
+      "28 MX": 8600,
+      "28.5 MX": 8700,
+      "30 MX": 8050
+    },
+    "image": "/images/555088-035.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1170,
+    "name": "Jordan 5 Retro",
+    "model": "Aqua",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 6650,
+    "pricing": {
+      "25 MX": 6650,
+      "25.5 MX": 6750,
+      "26 MX": 6700,
+      "26.5 MX": 7250,
+      "27 MX": 7300,
+      "27.5 MX": 7150,
+      "28 MX": 7300,
+      "28.5 MX": 7250,
+      "29 MX": 6650,
+      "30 MX": 6800
+    },
+    "image": "/images/DD0587-047.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1023,
+    "name": "Jordan 4 Retro GS",
+    "model": "Lightning",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 6050,
+      "23.5 MX": 6000,
+      "24 MX": 5900,
+      "24.5 MX": 5950,
+      "25 MX": 5950
+    },
+    "image": "/images/CT8527-700.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1014,
+    "name": "Jordan 4 Retro",
+    "model": "Black Cat (2020)",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 20050,
+    "pricing": {
+      "25 MX": 20200,
+      "25.5 MX": 20250,
+      "26 MX": 20050,
+      "26.5 MX": 22650,
+      "27 MX": 22850,
+      "27.5 MX": 22700,
+      "28 MX": 22150,
+      "28.5 MX": 22500,
+      "29 MX": 20450,
+      "30 MX": 20550
+    },
+    "image": "/images/CU1110-010.jpg",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1022,
+    "name": "Jordan 4 Retro",
+    "model": "Lightning",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7050,
+      "25.5 MX": 7150,
+      "26 MX": 7150,
+      "26.5 MX": 7550,
+      "27 MX": 7650,
+      "27.5 MX": 7650,
+      "28 MX": 7600,
+      "28.5 MX": 7650,
+      "29 MX": 7150,
+      "30 MX": 7100
+    },
+    "image": "/images/CT8527-700.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1097,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "J Balvin",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7950,
+    "pricing": {
+      "23 MX": 8100,
+      "23.5 MX": 8100,
+      "24 MX": 8050,
+      "24.5 MX": 8050,
+      "25 MX": 7950
+    },
+    "image": "/images/DC3481-900.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1100,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Travis Scott Reverse Mocha",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 24200,
+    "pricing": {
+      "25 MX": 24200,
+      "25.5 MX": 24600,
+      "26 MX": 24450,
+      "26.5 MX": 26950,
+      "27 MX": 26850,
+      "27.5 MX": 27600,
+      "28 MX": 26900,
+      "28.5 MX": 26850,
+      "29 MX": 24300,
+      "30 MX": 24200
+    },
+    "image": "/images/DM7866-162.webp",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1047,
+    "name": "Jordan 4 Retro GS",
+    "model": "Cool Grey",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7950,
+    "pricing": {
+      "23 MX": 8100,
+      "23.5 MX": 8100,
+      "24 MX": 8000,
+      "24.5 MX": 8000,
+      "25 MX": 7950
+    },
+    "image": "/images/308497-007.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1136,
+    "name": "Jordan 3 Retro",
+    "model": "Midnight Navy",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6450,
+    "pricing": {
+      "25 MX": 6500,
+      "25.5 MX": 6500,
+      "26 MX": 6450,
+      "26.5 MX": 6900,
+      "27 MX": 6900,
+      "27.5 MX": 6950,
+      "28 MX": 6950,
+      "28.5 MX": 6900,
+      "29 MX": 6450,
+      "30 MX": 6450
+    },
+    "image": "/images/CT8532-140.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1206,
+    "name": "Jordan 11 Retro",
+    "model": "Jubilee",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 8050,
+    "pricing": {
+      "25 MX": 8200,
+      "25.5 MX": 8050,
+      "26 MX": 8250,
+      "26.5 MX": 8950,
+      "27 MX": 8750,
+      "27.5 MX": 8800,
+      "28 MX": 8800,
+      "28.5 MX": 8850,
+      "29 MX": 8250,
+      "30 MX": 8050
+    },
+    "image": "/images/CT8012-011.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1027,
+    "name": "Jordan 4 Retro GS",
+    "model": "Seafoam",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6500,
+    "pricing": {
+      "23.5 MX": 6500,
+      "24 MX": 6550,
+      "24.5 MX": 6500,
+      "25 MX": 6650
+    },
+    "image": "/images/AQ9129-103.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1053,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Dark Mocha",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 9000,
+    "pricing": {
+      "23 MX": 9050,
+      "23.5 MX": 9000,
+      "24 MX": 9050,
+      "24.5 MX": 9250,
+      "25 MX": 9100
+    },
+    "image": "/images/555088-105.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1210,
+    "name": "Jordan 11 Retro Low",
+    "model": "Cement Grey",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 6300,
+    "pricing": {
+      "25 MX": 6350,
+      "25.5 MX": 6350,
+      "26 MX": 6300,
+      "26.5 MX": 6700,
+      "27 MX": 6750,
+      "27.5 MX": 6650,
+      "28 MX": 6750,
+      "28.5 MX": 6700,
+      "29 MX": 6300
+    },
+    "image": "/images/AV2187-140.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1225,
+    "name": "Jordan 12 Retro GS",
+    "model": "Cherry",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 5950,
+    "pricing": {
+      "23 MX": 6000,
+      "23.5 MX": 6000,
+      "24 MX": 5950,
+      "24.5 MX": 5950,
+      "25 MX": 6000
+    },
+    "image": "/images/CT8013-116.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1095,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Bio Hack",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6550,
+    "pricing": {
+      "23 MX": 6550,
+      "23.5 MX": 6550,
+      "24 MX": 6600,
+      "24.5 MX": 6650,
+      "25 MX": 6600
+    },
+    "image": "/images/555088-201.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1126,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Shadow",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5400,
+    "pricing": {
+      "25.5 MX": 5400,
+      "26 MX": 5400,
+      "26.5 MX": 5850,
+      "27 MX": 5850,
+      "28 MX": 5850,
+      "28.5 MX": 5800,
+      "29 MX": 5450,
+      "30 MX": 5400
+    },
+    "image": "/images/CZ0790-003.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1138,
+    "name": "Jordan 3 Retro",
+    "model": "Fire Red",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 7050,
+    "pricing": {
+      "25 MX": 7150,
+      "25.5 MX": 7050,
+      "26 MX": 7050,
+      "26.5 MX": 7700,
+      "27 MX": 7700,
+      "27.5 MX": 7600,
+      "28 MX": 7750,
+      "28.5 MX": 7600,
+      "29 MX": 7150,
+      "30 MX": 7200
+    },
+    "image": "/images/DN3707-160.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1044,
+    "name": "Jordan 4 Retro",
+    "model": "Canyon Purple",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 6850,
+    "pricing": {
+      "25 MX": 6950,
+      "25.5 MX": 7000,
+      "26 MX": 6850,
+      "26.5 MX": 7350,
+      "27 MX": 7350,
+      "27.5 MX": 7500,
+      "28 MX": 7400,
+      "28.5 MX": 7400,
+      "29 MX": 6950,
+      "30 MX": 6950
+    },
+    "image": "/images/AQ9129-500.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1074,
+    "name": "Jordan 1 Retro High OG",
+    "model": "White Cement",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6000,
+    "pricing": {
+      "25 MX": 6100,
+      "25.5 MX": 6100,
+      "26 MX": 6000,
+      "26.5 MX": 6500,
+      "27 MX": 6500,
+      "27.5 MX": 6450,
+      "28 MX": 6500,
+      "28.5 MX": 6550,
+      "29 MX": 6100,
+      "30 MX": 6100
+    },
+    "image": "/images/DZ5485-052.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1016,
+    "name": "Jordan 4 Retro",
+    "model": "White Oreo",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 10350,
+    "pricing": {
+      "25 MX": 10600,
+      "25.5 MX": 10450,
+      "26 MX": 10350,
+      "26.5 MX": 11350,
+      "27 MX": 11400,
+      "27.5 MX": 11600,
+      "28 MX": 11450,
+      "28.5 MX": 11300,
+      "29 MX": 10550,
+      "30 MX": 10600
+    },
+    "image": "/images/CT8527-100.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1080,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Heritage",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5200,
+    "pricing": {
+      "25 MX": 5250,
+      "25.5 MX": 5200,
+      "26 MX": 5250,
+      "26.5 MX": 5550,
+      "27 MX": 5600,
+      "27.5 MX": 5600,
+      "28 MX": 5600,
+      "28.5 MX": 5500,
+      "29 MX": 5250
+    },
+    "image": "/images/555088-161.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1219,
+    "name": "Jordan 12 Retro GS",
+    "model": "Flu Game",
+    "brand": "Jordan",
+    "category": "Otros Retro",
+    "price": 7450,
+    "pricing": {
+      "23 MX": 7500,
+      "23.5 MX": 7450,
+      "24 MX": 7650,
+      "24.5 MX": 7600,
+      "25 MX": 7500
+    },
+    "image": "/images/130690-002.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1065,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Palomino",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5800,
+    "pricing": {
+      "23 MX": 5850,
+      "23.5 MX": 5800,
+      "24 MX": 5800,
+      "24.5 MX": 5800,
+      "25 MX": 5800
+    },
+    "image": "/images/DZ5485-020.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1086,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Pollen",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6000,
+    "pricing": {
+      "25 MX": 6000,
+      "25.5 MX": 6100,
+      "26 MX": 6100,
+      "26.5 MX": 6450,
+      "27 MX": 6500,
+      "27.5 MX": 6450,
+      "28 MX": 6500,
+      "28.5 MX": 6500,
+      "29 MX": 6150,
+      "30 MX": 6050
+    },
+    "image": "/images/555088-701.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1067,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "UNC Toe",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5950,
+      "23.5 MX": 5950,
+      "24.5 MX": 6000,
+      "25 MX": 5900
+    },
+    "image": "/images/DZ5485-400.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1090,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Light Smoke Grey",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 7650,
+    "pricing": {
+      "25 MX": 7650,
+      "25.5 MX": 7800,
+      "26 MX": 7700,
+      "26.5 MX": 8400,
+      "27 MX": 8450,
+      "27.5 MX": 8300,
+      "28 MX": 8450,
+      "28.5 MX": 8400,
+      "29 MX": 7850,
+      "30 MX": 7750
+    },
+    "image": "/images/555088-126.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1020,
+    "name": "Jordan 4 Retro",
+    "model": "Infrared",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7250,
+    "pricing": {
+      "25 MX": 7250,
+      "25.5 MX": 7250,
+      "26 MX": 7350,
+      "26.5 MX": 7850,
+      "27 MX": 7950,
+      "27.5 MX": 7800,
+      "28 MX": 7850,
+      "28.5 MX": 7800,
+      "29 MX": 7250,
+      "30 MX": 7250
+    },
+    "image": "/images/DH6927-061.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1215,
+    "name": "Jordan 11 Retro GS Low",
+    "model": "72-10",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5900,
+      "23.5 MX": 6000,
+      "24 MX": 5900,
+      "24.5 MX": 6000
+    },
+    "image": "/images/AV2187-001.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1194,
+    "name": "Jordan 11 Retro",
+    "model": "Concord",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 11850,
+    "pricing": {
+      "25 MX": 12000,
+      "25.5 MX": 12100,
+      "26 MX": 11950,
+      "26.5 MX": 13200,
+      "27 MX": 13100,
+      "27.5 MX": 13200,
+      "28 MX": 13050,
+      "28.5 MX": 12950,
+      "29 MX": 11850,
+      "30 MX": 12000
+    },
+    "image": "/images/378037-100.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1151,
+    "name": "Jordan 3 Retro GS",
+    "model": "Cardinal Red",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 6050,
+    "pricing": {
+      "23 MX": 6050,
+      "23.5 MX": 6150,
+      "24 MX": 6100,
+      "24.5 MX": 6100
+    },
+    "image": "/images/CT8532-126.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1112,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Zion Voodoo",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 9250,
+    "pricing": {
+      "25 MX": 9300,
+      "25.5 MX": 9250,
+      "26 MX": 9300,
+      "26.5 MX": 10000,
+      "27 MX": 9900,
+      "27.5 MX": 9950,
+      "28 MX": 9950,
+      "28.5 MX": 9950,
+      "29 MX": 9300,
+      "30 MX": 9250
+    },
+    "image": "/images/DZ7292-200.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1109,
+    "name": "Jordan 1 Retro GS Low OG",
+    "model": "Black Toe",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 4650,
+    "pricing": {
+      "23 MX": 4750,
+      "23.5 MX": 4750,
+      "24 MX": 4750,
+      "24.5 MX": 4650,
+      "25 MX": 4700
+    },
+    "image": "/images/CZ0790-106.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1139,
+    "name": "Jordan 3 Retro GS",
+    "model": "Fire Red",
+    "brand": "Jordan",
+    "category": "Retro 3",
+    "price": 5900,
+    "pricing": {
+      "23 MX": 5900,
+      "23.5 MX": 6000,
+      "24 MX": 5900,
+      "24.5 MX": 5900,
+      "25 MX": 6050
+    },
+    "image": "/images/DN3707-160.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1163,
+    "name": "Jordan 5 Retro GS",
+    "model": "Off-White Muslin",
+    "brand": "Jordan",
+    "category": "Retro 5",
+    "price": 17250,
+    "pricing": {
+      "23 MX": 17400,
+      "23.5 MX": 17250,
+      "24 MX": 17750,
+      "24.5 MX": 17300,
+      "25 MX": 17750
+    },
+    "image": "/images/CT8480-001.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1122,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Mystic Navy",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5400,
+    "pricing": {
+      "25 MX": 5400,
+      "25.5 MX": 5450,
+      "26.5 MX": 5850,
+      "27 MX": 5750,
+      "27.5 MX": 5850,
+      "28 MX": 5850,
+      "28.5 MX": 5800,
+      "29 MX": 5400,
+      "30 MX": 5450
+    },
+    "image": "/images/CZ0790-041.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1185,
+    "name": "Jordan 6 Retro GS",
+    "model": "Midnight Navy",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 5450,
+    "pricing": {
+      "23 MX": 5550,
+      "23.5 MX": 5450,
+      "24 MX": 5500,
+      "24.5 MX": 5450,
+      "25 MX": 5450
+    },
+    "image": "/images/CT8529-141.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1211,
+    "name": "Jordan 11 Retro GS Low",
+    "model": "Cement Grey",
+    "brand": "Jordan",
+    "category": "Retro 11",
+    "price": 5300,
+    "pricing": {
+      "23 MX": 5300,
+      "23.5 MX": 5400,
+      "24 MX": 5350,
+      "24.5 MX": 5350,
+      "25 MX": 5350
+    },
+    "image": "/images/AV2187-140.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1179,
+    "name": "Jordan 6 Retro GS",
+    "model": "Infrared",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 6800,
+    "pricing": {
+      "23 MX": 6950,
+      "23.5 MX": 6850,
+      "24 MX": 6900,
+      "24.5 MX": 6800,
+      "25 MX": 6850
+    },
+    "image": "/images/384664-060.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1026,
+    "name": "Jordan 4 Retro",
+    "model": "Seafoam",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7900,
+    "pricing": {
+      "25 MX": 8050,
+      "25.5 MX": 7950,
+      "26 MX": 7950,
+      "26.5 MX": 8650,
+      "27 MX": 8500,
+      "27.5 MX": 8650,
+      "28 MX": 8600,
+      "28.5 MX": 8600,
+      "29 MX": 7900,
+      "30 MX": 8000
+    },
+    "image": "/images/AQ9129-103.webp",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1028,
+    "name": "Jordan 4 Retro",
+    "model": "Canvas Black",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 8500,
+    "pricing": {
+      "25 MX": 8550,
+      "25.5 MX": 8500,
+      "26 MX": 8500,
+      "26.5 MX": 9250,
+      "27 MX": 9250,
+      "27.5 MX": 9450,
+      "28 MX": 9350,
+      "28.5 MX": 9250,
+      "29 MX": 8650,
+      "30 MX": 8600
+    },
+    "image": "/images/DH7138-006.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1058,
+    "name": "Jordan 1 Retro High OG",
+    "model": "Taxi",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 6200,
+    "pricing": {
+      "25 MX": 6250,
+      "25.5 MX": 6300,
+      "26 MX": 6300,
+      "26.5 MX": 6750,
+      "27 MX": 6750,
+      "28 MX": 6650,
+      "28.5 MX": 6750,
+      "29 MX": 6350,
+      "30 MX": 6200
+    },
+    "image": "/images/555088-711.jpg",
+    "badge": "MEN'S"
+  },
+  {
+    "id": 1011,
+    "name": "Jordan 4 Retro GS",
+    "model": "Midnight Navy",
+    "brand": "Jordan",
+    "category": "Retro 4",
+    "price": 7000,
+    "pricing": {
+      "23 MX": 7000,
+      "23.5 MX": 7100,
+      "24 MX": 7000,
+      "24.5 MX": 7150,
+      "25 MX": 7050
+    },
+    "image": "/images/DH6927-140.webp",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1077,
+    "name": "Jordan 1 Retro GS High OG",
+    "model": "Washed Black",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 5500,
+    "pricing": {
+      "23 MX": 5500,
+      "23.5 MX": 5500,
+      "24 MX": 5500,
+      "24.5 MX": 5500,
+      "25 MX": 5500
+    },
+    "image": "/images/DZ5485-051.jpg",
+    "badge": "GS (JUNIOR)"
+  },
+  {
+    "id": 1104,
+    "name": "Jordan 1 Retro Low OG",
+    "model": "Travis Scott Black Phantom",
+    "brand": "Jordan",
+    "category": "Retro 1",
+    "price": 17350,
+    "pricing": {
+      "25 MX": 17500,
+      "25.5 MX": 17350,
+      "26 MX": 17400,
+      "26.5 MX": 19050,
+      "27 MX": 19050,
+      "27.5 MX": 19000,
+      "28 MX": 19050,
+      "28.5 MX": 18850,
+      "29 MX": 17400,
+      "30 MX": 17350
+    },
+    "image": "/images/DM7866-001.webp",
+    "badge": "GRAIL"
+  },
+  {
+    "id": 1182,
+    "name": "Jordan 6 Retro",
+    "model": "Carmine",
+    "brand": "Jordan",
+    "category": "Retro 6",
+    "price": 7100,
+    "pricing": {
+      "25 MX": 7150,
+      "26 MX": 7150,
+      "26.5 MX": 7650,
+      "27 MX": 7750,
+      "27.5 MX": 7600,
+      "28 MX": 7700,
+      "28.5 MX": 7600,
+      "29 MX": 7100,
+      "30 MX": 7150
+    },
+    "image": "/images/CT8529-106.jpg",
     "badge": "MEN'S"
   }
 ]

@@ -1,9 +1,17 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, MessageCircle, Menu, Filter, Share2, Heart, DollarSign } from 'lucide-react';
+import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, MessageCircle, Menu, Filter, Share2, Heart, DollarSign, AlertTriangle } from 'lucide-react';
 
-const WHATSAPP_NUMBER = "5565647493"; 
-const PAYPAL_USER = "https://paypal.me/knas99"; 
-const FALLBACK_IMG = "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600";
+// --- ⚙️ CONFIGURACIÓN DE COBRO (¡EDITA ESTO!) ---
+const WHATSAPP_NUMBER = "525512345678"; 
+
+// IMPORTANTE: Pon tu usuario de paypal.me aquí. 
+// Si tu link es paypal.me/juanperez, pon "juanperez".
+const PAYPAL_USER = "TU_USUARIO_AQUI"; 
+
+// Imagen de seguridad por si alguna falla
+const IMG_FALLBACK = "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600";
+
+// --- COMPONENTES ---
 
 const Navbar = ({ cartCount, toggleCart }) => (
   <nav className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">
@@ -28,17 +36,30 @@ const Navbar = ({ cartCount, toggleCart }) => (
   </nav>
 );
 
-const FilterBar = ({ activeCategory, setActiveCategory }) => (
-    <div className="bg-white border-b border-gray-100 sticky top-16 z-40 shadow-sm">
-        <div className="max-w-[1600px] mx-auto px-4 overflow-x-auto no-scrollbar">
-            <div className="flex gap-3 h-12 items-center">
-                {["Todos", "Retro 1", "Retro 3", "Retro 4", "Retro 5", "Retro 6", "Retro 11", "Otros Retro"].map(cat => (
-                    <button key={cat} onClick={() => setActiveCategory(cat)} className={`px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-wide transition-all whitespace-nowrap border ${activeCategory === cat ? 'bg-black text-white border-black shadow-md' : 'bg-white text-gray-500 border-gray-200 hover:border-black'}`}>{cat}</button>
-                ))}
+const FilterBar = ({ activeCategory, setActiveCategory }) => {
+    const categories = ["Todos", "Retro 1", "Retro 3", "Retro 4", "Retro 5", "Retro 6", "Retro 11", "Otros Retro"];
+    return (
+        <div className="bg-white border-b border-gray-100 sticky top-16 z-40 shadow-sm">
+            <div className="max-w-[1600px] mx-auto px-4 overflow-x-auto no-scrollbar">
+                <div className="flex gap-3 h-12 items-center">
+                    {categories.map(cat => (
+                        <button 
+                            key={cat}
+                            onClick={() => setActiveCategory(cat)}
+                            className={`px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-wide transition-all whitespace-nowrap border ${
+                                activeCategory === cat 
+                                ? 'bg-black text-white border-black shadow-md' 
+                                : 'bg-white text-gray-500 border-gray-200 hover:border-black'
+                            }`}
+                        >
+                            {cat}
+                        </button>
+                    ))}
+                </div>
             </div>
         </div>
-    </div>
-);
+    );
+};
 
 const ProductCard = ({ product, onClick }) => {
     const minPrice = product.price || 0;
@@ -51,7 +72,7 @@ const ProductCard = ({ product, onClick }) => {
                     alt={product.name}
                     className="w-[90%] h-auto object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500 ease-out"
                     loading="lazy"
-                    onError={(e) => { e.target.src = FALLBACK_IMG; }} 
+                    onError={(e) => { e.target.src = IMG_FALLBACK; }}
                 />
             </div>
             <div className="mt-auto">
@@ -78,10 +99,10 @@ const ProductDetail = ({ product, onClose, onAddToCart }) => {
         <button onClick={onClose} className="absolute top-4 right-4 p-2 bg-gray-100 hover:bg-gray-200 rounded-full z-20"><X size={20}/></button>
         <div className="w-full md:w-3/5 bg-white flex items-center justify-center p-8 md:p-12 border-r border-gray-100 relative">
              <div className="absolute top-6 left-6 flex flex-col gap-2"><span className="inline-flex items-center gap-1 bg-[#006340] text-white px-3 py-1 text-[10px] font-bold uppercase rounded-full shadow-md"><ShieldCheck size={12}/> Verificado</span></div>
-             <img src={product.image} className="w-full h-auto max-h-[400px] object-contain drop-shadow-xl" onError={(e) => { e.target.src = FALLBACK_IMG; }} />
+             <img src={product.image} className="w-full h-auto max-h-[400px] object-contain drop-shadow-xl" onError={(e) => { e.target.src = IMG_FALLBACK; }} />
         </div>
         <div className="w-full md:w-2/5 p-8 flex flex-col bg-white overflow-y-auto">
-             <div className="mb-8">
+             <div className="mb-6">
                  <h2 className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-1">{product.brand} / {product.category}</h2>
                  <h1 className="text-3xl font-black text-black leading-tight mb-2 uppercase">{product.name}</h1>
                  <p className="text-lg text-[#006340] font-bold">{product.model}</p>
@@ -111,15 +132,27 @@ const ProductDetail = ({ product, onClose, onAddToCart }) => {
 
 const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
     const total = cart.reduce((acc, item) => acc + item.price, 0);
+
     const handleWhatsApp = () => {
         if(cart.length === 0) return;
         const msg = `Hola WeraStock! Quiero comprar: ${cart.map(i => `${i.name} (${i.model}) [${i.selectedSize}]`).join(', ')}. Total: $${total}`;
         window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
     };
+
     const handlePayPal = () => {
         if(cart.length === 0) return;
-        window.open(`https://paypal.me/${PAYPAL_USER}/${total}`, '_blank');
+        
+        // Validación de seguridad para evitar errores
+        if(PAYPAL_USER === "TU_USUARIO_AQUI" || PAYPAL_USER === "wera_store_mx") {
+            alert("⚠️ ¡Atención! Debes configurar tu usuario de PayPal en el código.\n\nEdita el archivo src/App.jsx y cambia la variable PAYPAL_USER.");
+            return;
+        }
+
+        // Construcción robusta del link con moneda MXN
+        const link = `https://paypal.me/${PAYPAL_USER}/${total}MXN`;
+        window.open(link, '_blank');
     };
+
     if (!isOpen) return null;
     return (
         <div className="fixed inset-0 z-[100] bg-black/60 backdrop-blur-sm flex justify-end animate-in fade-in duration-200">
@@ -137,7 +170,10 @@ const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
                 </div>
                 <div className="p-6 bg-white border-t border-gray-100 shadow-lg">
                     <div className="flex justify-between text-2xl font-black mb-6"><span>Total</span><span>${total.toLocaleString('es-MX')}</span></div>
-                    <div className="flex flex-col gap-3"><button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button><button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button></div>
+                    <div className="flex flex-col gap-3">
+                        <button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button>
+                        <button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -152,12 +188,14 @@ export default function App() {
   const [isCartOpen, setIsCartOpen] = useState(false);
 
   useEffect(() => {
+    // Autocarga de estilos
     if (!document.getElementById('tailwind-script')) {
       const script = document.createElement('script'); script.id = 'tailwind-script'; script.src = "https://cdn.tailwindcss.com"; document.head.appendChild(script);
     }
   }, []);
 
   useEffect(() => {
+    // Carga de inventario con cache busting
     fetch('/inventory.json?t=' + Date.now()).then(res => res.json()).then(data => { if (Array.isArray(data) && data.length > 0) setInventory(data); }).catch(() => console.log("Cargando..."));
   }, []);
 

@@ -1,14 +1,13 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, MessageCircle, Menu, Filter, Share2, Heart, DollarSign, AlertTriangle } from 'lucide-react';
 
-// --- ⚙️ CONFIGURACIÓN DE COBRO (¡EDITA ESTO!) ---
+// --- ⚙️ CONFIGURACIÓN DE COBRO ---
 const WHATSAPP_NUMBER = "525565647493"; 
 
-// IMPORTANTE: Pon tu usuario de paypal.me aquí SIN "@" y SIN "paypal.me/"
-// Ejemplo: si tu link es paypal.me/weramx, pon solo "weramx"
+// ⚠️ IMPORTANTE: Pon tu usuario de PayPal tal cual aparece en tu link.
+// Si tu link es paypal.me/weramx, escribe "weramx" abajo.
 const PAYPAL_USER = "https://paypal.me/knas99"; 
 
-// Imagen de seguridad por si alguna falla
 const IMG_FALLBACK = "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600";
 
 // --- COMPONENTES ---
@@ -79,7 +78,10 @@ const ProductCard = ({ product, onClick }) => {
                 <h3 className="font-black text-gray-900 text-xs uppercase leading-tight line-clamp-2 mb-1">{product.name}</h3>
                 <p className="text-gray-500 text-[10px] truncate mb-3 font-medium">{product.model}</p>
                 <div className="flex justify-between items-end border-t border-dashed border-gray-200 pt-3">
-                    <div><p className="font-black text-lg text-black">${minPrice.toLocaleString('es-MX')}</p><p className="text-[10px] text-gray-400 font-bold uppercase">Envío Incluido</p></div>
+                    <div>
+                        <p className="font-black text-lg text-black">${minPrice.toLocaleString('es-MX')} MXN</p>
+                        <p className="text-[10px] text-gray-400 font-bold uppercase">Envío Incluido</p>
+                    </div>
                     <div className="bg-black text-white p-1.5 rounded-full opacity-0 group-hover:opacity-100 transition-opacity transform translate-x-2 group-hover:translate-x-0"><ChevronRight size={14}/></div>
                 </div>
             </div>
@@ -121,7 +123,14 @@ const ProductDetail = ({ product, onClose, onAddToCart }) => {
                  ) : (<p className="text-red-500 font-bold bg-red-50 p-4 text-center rounded border border-red-100">Agotado temporalmente</p>)}
              </div>
              <div className="mt-auto pt-6 border-t border-gray-100">
-                 <div className="flex justify-between items-end mb-4"><p className="text-sm font-bold text-gray-500">Precio Final:</p><p className="text-4xl font-black tracking-tight">${currentPrice ? currentPrice.toLocaleString('es-MX') : "--"}</p></div>
+                 <div className="flex justify-between items-end mb-4">
+                    <div>
+                        <p className="text-sm font-bold text-gray-500">Precio Final:</p>
+                        <p className="text-4xl font-black tracking-tight">
+                            ${currentPrice ? currentPrice.toLocaleString('es-MX') : "--"} <span className="text-sm font-bold text-gray-400">MXN</span>
+                        </p>
+                    </div>
+                 </div>
                  <button disabled={!selectedSize} onClick={() => { onAddToCart({...product, selectedSize, price: currentPrice}); onClose(); }} className="w-full bg-black text-white h-14 font-bold text-lg uppercase tracking-wide hover:bg-gray-800 disabled:opacity-50 disabled:cursor-not-allowed transition-all flex items-center justify-center gap-2 shadow-lg">Comprar Ahora</button>
              </div>
         </div>
@@ -135,21 +144,33 @@ const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
 
     const handleWhatsApp = () => {
         if(cart.length === 0) return;
-        const msg = `Hola WeraStock! Quiero comprar: ${cart.map(i => `${i.name} (${i.model}) [${i.selectedSize}]`).join(', ')}. Total: $${total}`;
+        const msg = `Hola WeraStock! Quiero comprar: ${cart.map(i => `${i.name} (${i.model}) [${i.selectedSize}]`).join(', ')}. Total: $${total} MXN`;
         window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
     };
 
     const handlePayPal = () => {
         if(cart.length === 0) return;
         
-        // Validación de usuario
-        if(PAYPAL_USER === "TU_USUARIO_AQUI" || PAYPAL_USER === "") {
-            alert("⚠️ ERROR: No has configurado tu usuario de PayPal en el archivo App.jsx. Busca la línea 'const PAYPAL_USER' y pon tu usuario.");
+        // --- CORRECCIÓN DE ERROR DE PAYPAL ---
+        let cleanUser = PAYPAL_USER.trim();
+        
+        // Limpieza de usuario agresiva
+        if (cleanUser.includes("paypal.me/")) cleanUser = cleanUser.split("paypal.me/")[1];
+        if (cleanUser.startsWith("@")) cleanUser = cleanUser.substring(1);
+        cleanUser = cleanUser.replace(/\/$/, ""); // Quitar slash final
+
+        if(cleanUser === "TU_USUARIO_AQUI" || cleanUser === "") {
+            alert("⚠️ ERROR: Configura tu usuario de PayPal en src/App.jsx (Línea 8).");
             return;
         }
 
-        // Link simplificado (más compatible)
-        const link = `https://paypal.me/${PAYPAL_USER}/${total}`;
+        // Link oficial para cobro en PESOS MEXICANOS
+        // Ejemplo: https://paypal.me/weramx/3500MXN
+        const link = `https://www.paypal.com/paypalme/${cleanUser}/${total}MXN`;
+        
+        // Debug para que veas qué link se está generando
+        console.log("Generando link de pago:", link);
+        
         window.open(link, '_blank');
     };
 
@@ -163,14 +184,17 @@ const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
                     {cart.map((item, i) => (
                         <div key={i} className="flex gap-4 mb-4 bg-white p-4 border border-gray-100 rounded-xl shadow-sm">
                             <div className="w-20 h-20 flex items-center justify-center p-2 flex-shrink-0 bg-gray-50 rounded-lg"><img src={item.image} className="w-full h-auto object-contain mix-blend-multiply" onError={(e) => { e.target.src = IMG_FALLBACK; }}/></div>
-                            <div className="flex-1"><h4 className="font-bold text-xs uppercase leading-tight mb-1">{item.name}</h4><p className="text-[10px] text-gray-500 mb-2">{item.model}</p><div className="flex justify-between items-end"><div className="bg-black text-white px-2 py-1 text-[10px] font-bold rounded">Talla: {item.selectedSize.replace(' MX', '')}</div><p className="font-black text-sm">${item.price.toLocaleString('es-MX')}</p></div><button onClick={() => setCart(cart.filter((_, idx) => idx !== i))} className="text-[10px] text-red-500 font-bold mt-2 hover:underline uppercase">Eliminar</button></div>
+                            <div className="flex-1"><h4 className="font-bold text-xs uppercase leading-tight mb-1">{item.name}</h4><p className="text-[10px] text-gray-500 mb-2">{item.model}</p><div className="flex justify-between items-end"><div className="bg-black text-white px-2 py-1 text-[10px] font-bold rounded">Talla: {item.selectedSize.replace(' MX', '')}</div><p className="font-black text-sm">${item.price.toLocaleString('es-MX')} MXN</p></div><button onClick={() => setCart(cart.filter((_, idx) => idx !== i))} className="text-[10px] text-red-500 font-bold mt-2 hover:underline uppercase">Eliminar</button></div>
                         </div>
                     ))}
                     {cart.length === 0 && <div className="text-center pt-20 opacity-40 font-bold">Carrito vacío</div>}
                 </div>
                 <div className="p-6 bg-white border-t border-gray-100 shadow-lg">
-                    <div className="flex justify-between text-2xl font-black mb-6"><span>Total</span><span>${total.toLocaleString('es-MX')}</span></div>
-                    <div className="flex flex-col gap-3"><button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button><button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button></div>
+                    <div className="flex justify-between text-2xl font-black mb-6"><span>Total</span><span>${total.toLocaleString('es-MX')} MXN</span></div>
+                    <div className="flex flex-col gap-3">
+                        <button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button>
+                        <button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button>
+                    </div>
                 </div>
             </div>
         </div>

@@ -4,8 +4,8 @@ import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, 
 // --- ⚙️ CONFIGURACIÓN DE COBRO (¡EDITA ESTO!) ---
 const WHATSAPP_NUMBER = "525565647493"; 
 
-// IMPORTANTE: Pon tu usuario de paypal.me aquí. 
-// Si tu link es paypal.me/juanperez, pon "juanperez".
+// IMPORTANTE: Pon tu usuario de paypal.me aquí SIN "@" y SIN "paypal.me/"
+// Ejemplo: si tu link es paypal.me/weramx, pon solo "weramx"
 const PAYPAL_USER = "https://paypal.me/knas99"; 
 
 // Imagen de seguridad por si alguna falla
@@ -142,14 +142,14 @@ const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
     const handlePayPal = () => {
         if(cart.length === 0) return;
         
-        // Validación de seguridad para evitar errores
-        if(PAYPAL_USER === "TU_USUARIO_AQUI" || PAYPAL_USER === "wera_store_mx") {
-            alert("⚠️ ¡Atención! Debes configurar tu usuario de PayPal en el código.\n\nEdita el archivo src/App.jsx y cambia la variable PAYPAL_USER.");
+        // Validación de usuario
+        if(PAYPAL_USER === "TU_USUARIO_AQUI" || PAYPAL_USER === "") {
+            alert("⚠️ ERROR: No has configurado tu usuario de PayPal en el archivo App.jsx. Busca la línea 'const PAYPAL_USER' y pon tu usuario.");
             return;
         }
 
-        // Construcción robusta del link con moneda MXN
-        const link = `https://paypal.me/${PAYPAL_USER}/${total}MXN`;
+        // Link simplificado (más compatible)
+        const link = `https://paypal.me/${PAYPAL_USER}/${total}`;
         window.open(link, '_blank');
     };
 
@@ -170,10 +170,7 @@ const CartDrawer = ({ isOpen, onClose, cart, setCart }) => {
                 </div>
                 <div className="p-6 bg-white border-t border-gray-100 shadow-lg">
                     <div className="flex justify-between text-2xl font-black mb-6"><span>Total</span><span>${total.toLocaleString('es-MX')}</span></div>
-                    <div className="flex flex-col gap-3">
-                        <button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button>
-                        <button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button>
-                    </div>
+                    <div className="flex flex-col gap-3"><button onClick={handleWhatsApp} disabled={cart.length === 0} className="w-full bg-[#25D366] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#1ebc57] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><MessageCircle size={20}/> Acordar por WhatsApp</button><button onClick={handlePayPal} disabled={cart.length === 0} className="w-full bg-[#0070BA] text-white py-3.5 rounded-xl font-bold uppercase hover:bg-[#005ea6] flex justify-center items-center gap-2 shadow-md transition-colors disabled:opacity-50"><DollarSign size={20}/> Pagar con PayPal</button></div>
                 </div>
             </div>
         </div>
@@ -195,7 +192,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    // Carga de inventario con cache busting
+    // Si no hay archivo, carga una lista vacía para no romper la app
     fetch('/inventory.json?t=' + Date.now()).then(res => res.json()).then(data => { if (Array.isArray(data) && data.length > 0) setInventory(data); }).catch(() => console.log("Cargando..."));
   }, []);
 

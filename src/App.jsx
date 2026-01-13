@@ -2,11 +2,11 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { ShoppingBag, Search, X, ChevronRight, Check, Trash2, ShieldCheck, Zap, MessageCircle, Menu, Filter, Share2, Heart, DollarSign, AlertTriangle } from 'lucide-react';
 
 // --- ⚙️ CONFIGURACIÓN DE COBRO (¡EDITA ESTO!) ---
-const WHATSAPP_NUMBER = "525512345678"; 
+const WHATSAPP_NUMBER = "525565647493"; 
 
 // IMPORTANTE: Pon tu usuario de paypal.me aquí. 
 // Si tu link es paypal.me/juanperez, pon "juanperez".
-const PAYPAL_USER = "TU_USUARIO_AQUI"; 
+const PAYPAL_USER = "https://paypal.me/knas99"; 
 
 // Imagen de seguridad por si alguna falla
 const IMG_FALLBACK = "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600";
